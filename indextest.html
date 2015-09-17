@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Creative - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">avritek</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">Why avritek?</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services<b class="caret"></b></a>
+                        <ul class="dropdown-menu dropdown-menu-left">
+						 <li><a class="page-scroll" href="#services">Services Overview</a></li>
+                            <li><a href="data_product_destruction_and_sanitization.html">Data & Product Destruction </a></li>
+                            <li><a href="logistics-removal-recycling.html">Logistics & Recycling</a></li>
+                            <li><a href="ITAssetValueRecovery.html">Asset Value Recovery</a></li>
+							<li><a href="partner-with-avritek.html">Partnerships</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#blog">Blog</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+					 <li>
+                        <a class="page-scroll" href="tel:858-715-0950" style="color:orange">858-715-0950</a>
+                    </li>
+					<li><a href="#myModal" data-toggle="modal">Login</a>
+					</li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 >Technology Asset Solutions</h1>
+                <hr>
+                <h2>Avritek helps organizations to safely and profitably offload their excess equipment, and provides business critical hardware lifecycle services
+				</h2>
+            </div>
+        </div>
+    </header>
+	
+		<!--login modal-->
+<div id="myModal" class="modal fade">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header">
+
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+                <h4 class="modal-title">Login</h4>
+
+            </div>
+
+            <div class="modal-body">
+
+                <p>Please enter your login credentials:</p>
+				 <p>
+                    <input type="text" id="username" /> Username</input>
+                </p>
+				<p>
+                    <input type="text" id="password" /> Password</input>
+                </p>
+
+            </div>
+
+            <div class="modal-footer">
+
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                <button type="button" class="btn btn-primary">Submit</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!--end login modal-->
+	<!--equipment modal-->
+<div id="buyModal" class="modal fade">
+
+    <div class="modal-dialog" id="buy-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header">
+
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+            </div>
+
+            <div class="modal-body" id="modal-text">
+			<h3 class="section-heading text-center">We buy IT, lab/test, A/V, telecom, and medical equipment!</h3>
+			<br>
+			<p id="modal-text">We got our start as an electronics equipment reseller over a decade ago and to this day it is a core part of what we do. Our expertise is in IT, lab/test, and medical equipment. We evaluate equipment of all varieties, in all conditions and quantities. Contact us today to see what we can offer for your equipment. 
+			<br>
+			<br>
+			</p>
+			
+
+              <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ --> 
+		<div class="container-fluid" id="contactForm">
+			<div class = "row">
+			<form class="form-horizontal" role="form" method="post" action="index.php">
+    <div class="form-group">
+        <label for="name" class="col-sm-2 control-label">Name</label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="email" class="col-sm-2 control-label">Email</label>
+        <div class="col-sm-8">
+            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+        </div>
+    </div>
+
+	<div class="form-group">
+		<label for="serviceType" class="col-xs-3 col-lg-4  control-label">Service Type</label>
+		<div class="col-sm-8">
+			<select class="form-control" id="serviceType">
+				<option value="one">Sell us your equipment</option>
+				<option value="two">Purchase equipment from us</option>
+				<option value="three">All other inquiries</option>
+				</select>
+		</div>
+			
+	</div>
+    <div class="form-group">
+        <label for="message" class="col-sm-2 control-label">Message</label>
+        <div class="col-sm-8">
+            <textarea class="form-control" rows="3" name="message" placeholder="What would you like to talk with us about?"></textarea>
+        </div>
+    </div>
+	 <div class="form-group">
+        <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="human" name="human" placeholder="(Simple spam checker)">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-10 col-sm-offset-2">
+            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+        </div>
+    </div>
+</form>
+			</div>
+		</div>
+	<!--End contact form--> 
+
+            </div>
+
+            <div class="modal-footer">
+
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!--end equipment modal-->
+
+	<!-- sidebar -->
+	<div class = "container-fluid">
+		<div class="col-md-1  text-center">
+		<a href="#buyModal" data-toggle="modal"><div id="buygear" >
+		<h4><span style="color:white">We buy equipment!</span></h4>
+		</div></a>
+		</div>
+	</div>
+	<!--end sidebar-->
+	
+
+    <section class="bg-primary" id="about">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-5 col-md-offset-1  text-center">
+                    <h2 class="section-heading">Why Avritek?</h2>
+                    <hr class="primary">
+                    <p style = "text-align:justify">Since 2004 Avritek (formerly AVR Recycling)  has been a leader in our industry because of our unwavering commitment to its clients data security, ability to provide a high return on technology assets, and outstanding customer service. 
+                     <p style = "text-align:justify"> We service a wide variety of clients from industries such as law, finance, biotech, healthcare, technology, government, manufacturers, as well as office environments of all sizes. </p> 
+                     </p>
+					<br><p style="text-align:justify">Thank you for considering us as a potential service provider; we look forward to learning about your next project, or ongoing service needs.<br><br></p>
+					
+					<a href="www.google.com" target="_blank"><button type="button" class="btn btn-info btn-lg">Prospective Client Package >></button></a>
+				    <p></p>
+				</div>	
+				<div class="col-md-4 col-md-offset-1">
+					<div class="table-responsive" id="checklist"> 
+
+						<table class="table table-bordered">
+		
+							<tbody>
+
+							<thead>
+
+								<tr style = "color:orange">
+
+									<th>The Avritek Difference</th>
+
+									<th></th>
+
+								</tr>
+
+							</thead>
+
+							<tbody>
+
+								<tr>
+
+									<td><h5><strong>Comprehensive & Secure Data Destruction.</strong></h5>Onsite & offsite IT asset shredding, degaussing, & sanitization
+									</td>
+
+									<td> <i class="fa fa-check fa-3x"></i></td>
+
+								</tr>
+
+								<tr>
+
+									<td><h5><strong>IT Asset Removal & De-installation</strong></h5>Locked collection & transport bins, IT asset tag removal, logistics coordination.
+									</td>
+
+									<td> <i class="fa fa-check fa-3x"></i></td>
+
+								</tr>
+
+								<tr>
+
+								<td><h5><strong>Chain of Custody IT Asset Auditing & Reporting</strong></h5>Auditable serial number inventory, inventory tracking, certificate of destruction and recycling, waste diversion and LEED reporting
+								</td>
+
+									<td> <i class="fa fa-check fa-3x"></i></td>
+
+								</tr>
+								<tr>
+
+									<td><h5><strong> Responsible Electronics Recycling Services</strong></h5>Certified USA based downstream processors, no export of recyclable materials
+									</td>
+
+									<td> <i class="fa fa-check fa-3x"></i></td>
+
+								</tr>
+								<tr>
+
+									<td><h5><strong>Compliance with Federal, State & Local Laws </strong></h5>HIPPA, HITECH, NIST 800-88r1, DoD, NSA, SOX, PCI DSS and more
+									</td>
+
+									<td> <i class="fa fa-check fa-3x"></i></td>
+
+								</tr>
+								<tr>
+
+                    <td><h5><strong>Secure Plant-based Facilities</strong></h5>24/7 video and motion surveillance, visitor escort
+                    </td>
+
+                    <td> <i class="fa fa-check fa-3x"></i></td>
+
+                </tr>
+				<tr>
+
+                    <td><h5><strong>Experienced & Vetted Technicians</strong></h5>(Prescreened employees, background checks, drug testing
+                    </td>
+
+                    <td> <i class="fa fa-check fa-3x"></i></td>
+
+                </tr>
+            </tbody>
+
+        </table>
+        
+    </div>
+	<br>
+	
+</div>
+	<br>
+	
+
+
+
+                   <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a>-->
+                </div>
+            </div>
+        </div>
+    </section>
+	<section class="bg-secondary" id="secondary">
+        <div class="container">
+            <div class="row">
+                 <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading"></h2>
+                    <p class ="quotebox">"When it came to their  asset recovery services, Avritek was very easy to work with. They were flexible in adjusting their POs when we found additional items to sell and were always fair and up-front. Our payments arrived promptly and we firmly believe Avritek provided us with fair market value for our equipment. - Ed, Collateral Risk Solutions
+					</p>
+                   <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a>-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Services</h2>
+					<hr class="primary">
+					<p><br>All organizations face the same primary challenge when preparing to offload their excess IT and electronic equipment: to ensure no company or customer data is compromised or lost. 
+
+To eliminate any concerns, we maintain strict data security procedures to ensure that devices which contain proprietary or confidential information are handled properly on their way to resale, recycling or destruction. 
+
+Because we have extensive experience in hardware refreshes, recurring pickups, data center co-locations, and facility moves/closures, we are well prepared to handle any situation that carries with it an inherent security risk. 
+<br></p>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-hdd-o wow bounceIn text-primary"></i>
+                        <h3><a href="data_product_destruction_and_sanitization.html">Data Destruction & Sanitization</a></h3>
+                        <p class="text-muted">On-site & off-site. Performed by our trained, vetted experts. </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-line-chart wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3><a href="ITAssetValueRecovery.html">Asset Value Recovery</a></h3>
+                        <p class="text-muted">Lower the TCO of your technology equipment.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-cogs wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3><a href="data_product_destruction_and_sanitization.html">IP & Product Destruction</a></h3>
+                        <p class="text-muted">Protect brand integrity, prevent data breaches.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-truck wow bounceIn text-primary"></i>
+                        <h3><a href="logistics-removal-recycling.html">Logistics & Equipment Removal</a></h3>
+                        <p class="text-muted">Data centers to desktops and more.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-recycle wow bounceIn text-primary"></i>
+                        <h3><a href="logistics-removal-recycling.html">Technology Recycling</a></h3>
+                        <p class="text-muted">Environmentally responsible. No export oversees.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-users wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3><a href="partner-with-avritek.html">Partner with Avritek</a></h3>
+                        <p class="text-muted">Close more deals, increase revenue streams.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	<section class="bg-secondary" id="tertiary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading"></h2>
+                    <hr class="light">
+                    <p class="quotebox">"When I needed to contact AVR to give them an update or ask a question they were very responsive and professional. I would recommend AVR to any organization who is relocating facilities." - Michael, Quintiles Inc. 
+ </p>
+                   <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a>-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+     <!--  <section class="no-padding" id="blog">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+	</section>
+             <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+
+        <section class="bg-primary" id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12  text-center">
+                    <h2 class="section-heading">Company and Industry Updates</h2>
+                    <hr class="primary">
+                    <p>We are active members in several leading industry organizations, including IAITAM, AITP, IFMA. We believe that to best serve our clients, we should be constantly educating ourselves about the technology industry. Subscribe now and keep updated with us. 
+					</p> 
+					<div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-3  text-right">
+					<form role="form">
+						<div class="form-group">
+							<div>
+							<form action="http://avr-recycling.us6.list-manage.com/subscribe/post" method="POST">
+<input type="hidden" name="MERGE0" value="3cff8a9d4df9dde6a8dd81831">
+<input type="hidden" name="id" value="9e47f7cd03">
+							<label for="email"></label>
+							<input type="email" name ="MERGE0" class="form-control" id="email" placeholder="Enter email">
+							<button type="submit" class="btn btn-default">Subscribe</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+	    </div>
+					<h3>Recent blog posts:</h3>
+					<br>
+				</div>
+				<div class="container">
+					<div class="row">
+					<div class="col-lg-4 col-sm-4">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/serverroomguy.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Published 8/05/2015
+                                </div>
+                                <div class="project-name">
+                                    Server Room Update 2015
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+					<div class="col-lg-4 col-sm-4">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/serverroomguy.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Published 8/05/2015
+                                </div>
+                                <div class="project-name">
+                                    Server Room Update 2015
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+										<div class="col-lg-4 col-sm-4">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/serverroomguy.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Published 8/05/2015
+                                </div>
+                                <div class="project-name">
+                                    Server Room Update 2015
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+           </div>
+            </div>	
+      
+    </section>
+	<section class="bg-secondary" id="quaternary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading"></h2>
+                    <hr class="light">
+                    <p class="quotebox">"Not only have we significantly lowered our costs by working with Avritek, but we have also gained a trusted partner as well. I would recommend them as a service provider to anyone." - Jeff, ResMed Corp
+</p>
+                   <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a>-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Contact us</h2>
+                    <hr class="primary">
+                    <p>Ready to start your next project with us, or just need a quote? That's great! Give us a call or send us an email and we will get back to you soon.</p>
+                </div>
+				
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
+                    <p><a href="tel:858-715-0950">858-715-0950</a></p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="mailto:your-email@your-domain.com" target="_blank">info@avritek.com</a></p>
+                </div>
+            </div>
+			
+<!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ --> 
+		<div class="container-fluid" id="contactForm">
+			<div class = "row">
+			<form class="form-horizontal" role="form" method="post" action="index.php">
+    <div class="form-group">
+        <label for="name" class="col-sm-2 control-label">Name</label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="email" class="col-sm-2 control-label">Email</label>
+        <div class="col-sm-8">
+            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+        </div>
+    </div>
+
+	<div class="form-group">
+		<label for="serviceType" class="col-xs-3 col-lg-4  control-label">Service Type</label>
+		<div class="col-sm-8">
+			<select class="form-control" id="serviceType">
+				<option value="one">Sell us your equipment</option>
+				<option value="two">Purchase equipment from us</option>
+				<option value="three">All other inquiries</option>
+				</select>
+		</div>
+			
+	</div>
+	    <div class="form-group">
+        <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="human" name="human" placeholder="(Simple spam checker)">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="message" class="col-sm-2 control-label">Message</label>
+        <div class="col-sm-8">
+            <textarea class="form-control" rows="3" name="message"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-10 col-sm-offset-2">
+            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+        </div>
+    </div>
+</form>
+			</div>
+		</div>
+	<!--End contact form--> 
+	
+        </div>
+    </section>
+	<footer class="bg-dark">
+       <div class="text-center center-block">
+            
+                <a href="https://www.linkedin.com/company/avr-recycling" target="_blank"><i id="social" class="fa fa-linkedin-square fa-3x"></i></a>
+	            <a href="https://twitter.com/AVR_ITAD" target="_blank"><i id="social" class="fa fa-twitter-square fa-3x"></i></a>
+	            <a href="mailto:info@avr-recycling.com" target="_blank"><i id="social" class="fa fa-envelope-square fa-3x"></i></a>
+				<p><small>&copy; ElectroRecycle Inc. 650 Gateway Center Way, San Diego CA, 92102</small></p>
+</div>
+
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+
+	<!--My Custom Javascript -->
+	<script src="js/script.js"></script>
+	
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
+</body>
+
+</html>
