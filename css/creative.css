@@ -42,18 +42,39 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; 
+    margin-bottom: 15px;
+}
+
+
+h5 {
+color: #6F6F6F;
+font-size: 13px;
+}
+
+td {
+    color: #6F6F6F;
+    font-size: 13px;
 }
 
 p {
     margin-bottom: 20px;
-    font-size: 17px;
-    line-height: 2.5;
+    font-size: 15px;
+    line-height: 2;
 	text-align: center;
+    color: #6F6F6F;
 }
 
 #about,#blog {
    color: black;
+}
+
+#about p {
+    line-height: 2em;
+}
+
+.diffTable {
+    padding-left: 20%;
 }
 
 .bg-primary {
@@ -73,34 +94,49 @@ section {
     padding: 60px 0;
 }
 
-footer {
-    padding: 30px 0 10px 0;
-	margin: 0;
-	width: 100%;
-	display:inline-block;
-}
-
 .no-padding {
     padding: 0;
 }
 
 .service p {
-	font-size: 1em; 
+	font-size: 1.1em; 
 	text-align:left;
 	font-family:Arial;
-	
+    line-height: 1em;
+    color: #6F6F6F;
 }
 
 div #service-container{
-	background-color:#d3effb;
-	padding: 60px;
-	margin: 50px 50px 0 50px;
+    font-family:Arial;
+	background-color:#EEEEEE;
+    border: 3px solid #D8D8D8;
+    border-radius: 10px;
+	padding: 2% 3%;
+	margin: 0 80px;
+    color: #6F6F6F;
+    font-size: 1em;
+    font-weight: 550;
+    text-align: left;
+
 }
 
-/*div .service-page {
- width:70%;	
-	
-}*/
+#service-container ul{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+
+#service-container li{
+    padding-bottom: 3%;
+}
+
+div .section-heading{
+    color: #f05f40;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-bottom: .5%;
+    margin: 1%;
+}
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
@@ -150,7 +186,7 @@ div #service-container{
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.3);
-        background-color: transparent;
+        background-color: rgba(0,0,0,.5);
     }
 
     .navbar-default .navbar-header .navbar-brand {
@@ -198,6 +234,15 @@ div #service-container{
     }
 }
 
+.navbar-brand {
+    padding-left: 0;
+}
+
+.navbar-brand>img {
+    max-width:200px; 
+    margin-top: -16px; 
+}
+
 header {
     position: relative;
     width: 100%;
@@ -221,7 +266,7 @@ header {
 	max-height:40%;
     text-align: center;
     color: #fff;
-   background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/broken.jpg);
+   background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/Avirtek_microchips.jpg);
     background-position: center;
     -webkit-background-size: auto;
     -moz-background-size: auto;
@@ -251,7 +296,7 @@ header {
 	max-height:40%;
     text-align: center;
     color: #fff;
-   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/calculator.jpg);
+   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/Avirtek_calculator.jpg);
     background-position: center;
     -webkit-background-size: auto;
     -moz-background-size: auto;
@@ -266,7 +311,7 @@ header {
 	max-height:40%;
     text-align: center;
     color: #fff;
-   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/partnership.jpg);
+   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/Avirtek_partnership.jpg);
     background-position: center;
     -webkit-background-size: auto;
     -moz-background-size: auto;
@@ -294,7 +339,7 @@ header {
     position: fixed;
 	text-align:center;
 	padding:-3px;
-	margin: 0 0 0 -70px;
+    left: 1%;
 	width:200px;
 	height:60px;
 	background-color:#f05f40;
@@ -334,7 +379,7 @@ header {
 }
 
 .fa-check{
-	color:green;
+	color:#8CC541;
 }
 
 #tertiary{
@@ -432,6 +477,7 @@ header .header-content .header-content-inner p {
 }
 
 .service-heading{
+    margin-top: 0;
 	 color:#f05f40;
 	
 }
@@ -531,6 +577,10 @@ header .header-content .header-content-inner p {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+}
+
+.btn-info {
+    background-color: rgba(0, 131, 192, 1)
 }
 
 .btn-default:hover,
@@ -675,10 +725,75 @@ body {
 }
 
 #modal-text{
-	margin: 2em;
+	margin: 3% 2% 0% 2%;
+    font-size: 1em;
+    width: auto;
+    line-height: 2em;
+    
+}
+
+.modal-body li {
+    position: relative;
+    list-style-type: none;
+    left: 20%;
+    margin: 5%;
 }
 
 .quotebox{
 	background-color:rgba(64,64,64,0.8);
-	border-radius: 5px
+	border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.required {
+    color: #f05f40;
+    font-weight: 400;
+    margin-left: 2%;
+    padding-left: 2%;
+    font-size: .8em;
+}
+
+.requiredfield{
+    color: #f05f40;
+    font-weight: 400;
+    padding-top: 2%;
+    font-size: .8em;
+}
+
+footer {
+    padding: 30px 0 10px 0;
+	margin: 0;
+	width: 100%;
+	display:inline-block;
+    position: absolute;
+    left:0;
+}
+
+#submit {
+    margin-top: 1.5%;
+}
+
+.dropdown-menu li:hover {
+    visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.table-responsive {
+    min-height: .01%;
+    overflow-x:inherit;
+}
+
+.grey-divider {
+    max-width: 80%;
+    position: inherit;
+    border-color: #D8D8D8;
+    margin: 5% 0;
+}
+
+#phone {
+    color: #8CC541;
 }

@@ -7,10 +7,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Avritek's customized technology asset recovery services help our clients maximize their return on investment when offloading their IT and electronic equipment.">
+    <meta name="author" content="Jenny Pletner">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>Avritek - Asset Value Recovery</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -36,7 +36,7 @@
 </head>
 
 <body id="page-top">
-    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -46,10 +46,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="index.html">avritek</a>
+                <a class="navbar-brand page-scroll" href="index.html#page-top"><img src ="img/Avritek_no tagline.png"></a>
             </div>
 
-             <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
@@ -66,13 +66,13 @@
                         </ul>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#blog">Blog</a>
+                        <a class="page-scroll" href="index.html#blog">Blog</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
 					 <li>
-                        <a class="page-scroll" href="tel:858-715-0950" style="color:orange">858-715-0950</a>
+                        <a class="page-scroll" id="phone" href="tel:858-715-0950">858-715-0950</a>
                     </li>
 					<li><a href="#myModal" data-toggle="modal">Login</a>
 					</li>
@@ -83,6 +83,48 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <!--login modal-->
+<div id="myModal" class="modal fade">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header">
+
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+                <h4 class="modal-title">Login</h4>
+
+            </div>
+
+            <div class="modal-body">
+
+                <p>Please enter your login credentials:</p>
+				<ul> 
+                <li>
+                    <input type="text" id="username" /> Username</input>
+                </li>
+				<li>
+                    <input type="text" id="password" /> Password</input>
+                </li>
+                </ul>
+            </div>
+
+            <div class="modal-footer">
+
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                <button type="button" class="btn btn-primary">Submit</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!--end login modal-->
    <header id="value-recovery">
         <div class="header-content">
             <div class="header-content-inner">
@@ -117,32 +159,31 @@
 
             <div class="modal-body" id="modal-text">
 			<h3 class="section-heading text-center">We buy IT, lab/test, A/V, telecom, and medical equipment!</h3>
-			<br>
+
 			<p id="modal-text">We got our start as an electronics equipment reseller over a decade ago and to this day it is a core part of what we do. Our expertise is in IT, lab/test, and medical equipment. We evaluate equipment of all varieties, in all conditions and quantities. Contact us today to see what we can offer for your equipment. 
-			<br>
-			<br>
+
 			</p>
 			
 
               <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ --> 
 		<div class="container-fluid" id="contactForm">
 			<div class = "row">
-			<form class="form-horizontal" role="form" method="post" action="index.php">
+			<form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe">
     <div class="form-group">
-        <label for="name" class="col-sm-2 control-label">Name</label>
+        <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required>
         </div>
     </div>
     <div class="form-group">
-        <label for="email" class="col-sm-2 control-label">Email</label>
+        <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required>
         </div>
     </div>
 
 	<div class="form-group">
-		<label for="serviceType" class="col-xs-3 col-lg-4  control-label">Service Type</label>
+		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
 		<div class="col-sm-8">
 			<select class="form-control" id="serviceType">
 				<option value="one">Sell us your equipment</option>
@@ -155,13 +196,13 @@
     <div class="form-group">
         <label for="message" class="col-sm-2 control-label">Message</label>
         <div class="col-sm-8">
-            <textarea class="form-control" rows="3" name="message" placeholder="What would you like to talk with us about?"></textarea>
+            <textarea class="form-control" rows="3" name="message"></textarea>
         </div>
     </div>
 	 <div class="form-group">
-        <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+        <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="text" class="form-control" id="human" name="human" placeholder="(Simple spam checker)">
+            <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
         </div>
     </div>
     <div class="form-group">
@@ -169,6 +210,9 @@
             <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
         </div>
     </div>
+    <div class="col-sm-12" id="frameDiv">   
+            <iframe name="myIframe" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
+        </div>
 </form>
 			</div>
 		</div>
@@ -193,30 +237,21 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 col-md-offset-1"  text-left>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					
-
-                    <h3 class="service-heading">Lower total cost of ownership</h3> 
-                    <br>					
+                    <h3 class="service-heading">Lower total cost of ownership.</h3> 				
 					<p> Our customized technology asset recovery services help our clients maximize their return on investment when offloading their IT and electronic equipment. 
 
                      We have an extensive network of qualified partners and equipment buyers, and run a direct sales operation to quickly move our inventory. 
 
                      We excel at quickly removing and reselling both large and small volumes of equipment.</p>
                         
-					<p>Avritek got its start as a buyer and reseller of technology assets and this remains a core part of our business. Our experience and deep relationships <strong>ensure higher direct purchase prices than the average organization can achieve on their own</strong>.
+					<p>Avritek got its start as a buyer and reseller of technology assets and this remains a core part of our business. Our experience and deep relationships ensure higher direct purchase prices than the average organization can achieve on their own.
                      </p>
-					 
-					<a href="www.google.com" target="_blank"><button type="button" class="btn btn-info btn-small">PDF of this page</button></a>
+				<a href="http://FreeHTMLtoPDF.com/?convert=www.Avritek/ITAssetValueRecovery.html/&size=US_Letter&orientation=landscape&framesize=800&language=de"><button type="button" class="btn btn-info btn-small">PDF of this page</button></a>
                 </div>
 				
 				<div class="col-md-3" id ="service-container" >
                     <h4 class="section-heading">Service Features</h4>
+                    <hr class="grey-divider">
 				  <ul>
 					<li>Serialized asset inventorying
 					</li>
@@ -243,6 +278,7 @@
 				  <br>
 				  <br>
 				  <h4 class="section-heading">Example Equipment</h4>
+                    <hr class="grey-divider">
 				  <ul>
 					<li>Mobile Devices and Tablets
 					</li>
@@ -265,14 +301,15 @@
 		
 		
     </section>
-    <section id="contact">
+  <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Contact us</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you soon.</p>
+                    <p>Ready to start your next project with us, or just need a quote? That's great! Give us a call or send us an email and we will get back to you soon.</p>
                 </div>
+				
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
                     <p><a href="tel:858-715-0950">858-715-0950</a></p>
@@ -282,15 +319,73 @@
                     <p><a href="mailto:your-email@your-domain.com" target="_blank">info@avritek.com</a></p>
                 </div>
             </div>
+			
+<!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ --> 
+		<div class="container-fluid" id="contactForm">
+			<div class = "row">
+			<form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe">
+    <div class="form-group">
+        <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" required>
         </div>
+    </div>
+    <div class="form-group">
+        <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
+        <div class="col-sm-8">
+            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" required>
+        </div>
+    </div>
+
+	<div class="form-group">
+		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
+		<div class="col-sm-8">
+			<select class="form-control" id="serviceType" name="type">
+				<option value="Sell us your equipment">Sell us your equipment</option>
+				<option value="Purchase equipment from us">Purchase equipment from us</option>
+				<option value="All other inquiries">All other inquiries</option>
+            </select>
+		</div>
+			
+	</div>
+	    <div class="form-group">
+        <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
+        <div class="col-sm-8">
+            <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="message" class="col-sm-2 control-label">Message</label>
+        <div class="col-sm-8">
+            <textarea class="form-control" rows="3" name="message"></textarea>
+            <span class="requiredfield">* required fields</span
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-10 col-sm-offset-2">
+            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+        </div>
+    </div>
+         <div class="col-sm-12" id="frameDiv">   
+            <iframe name="myIframe" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
+        </div>
+
+</form>
+
+			</div>
+		</div>
+	<!--End contact form--> 
+	</div>
     </section>
+        
+        
 	<footer class="bg-dark">
        <div class="text-center center-block">
             
-                <a href="https://www.facebook.com/bootsnipp"><i id="social" class="fa fa-linkedin-square fa-3x"></i></a>
-	            <a href="https://twitter.com/bootsnipp"><i id="social" class="fa fa-twitter-square fa-3x"></i></a>
-	            <a href="mailto:bootsnipp@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x"></i></a>
-				<p><small>&copy; ElectroRecycle Inc. 650 Gateway Center Way, San Diego CA, 92102</small></p>
+                <a href="https://www.linkedin.com/company/avr-recycling" target="_blank"><i id="social" class="fa fa-linkedin-square fa-3x"></i></a>
+	            <a href="https://twitter.com/AVR_ITAD" target="_blank"><i id="social" class="fa fa-twitter-square fa-3x"></i></a>
+	            <a href="mailto:info@avr-recycling.com" target="_blank"><i id="social" class="fa fa-envelope-square fa-3x"></i></a>
+				<p><small>&copy; Avritek 650 Gateway Center Way Suite I, San Diego CA, 92102</small></p>
 </div>
 
     </footer>
@@ -312,8 +407,13 @@
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
 
+
+        
 </body>
 
 </html>
+
+
+
 
 
