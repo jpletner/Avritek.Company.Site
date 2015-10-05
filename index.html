@@ -135,7 +135,7 @@
 
 </div>
 <!--end login modal-->
-	<!--equipment modal-->
+		<!--equipment modal-->
 <div id="buyModal" class="modal fade">
 
     <div class="modal-dialog" id="buy-dialog">
@@ -148,31 +148,33 @@
 
             </div>
 
-            <div class="modal-body" id="modal-text">
+            <div class="modal-body modal-wide" id="modal-text">
 			<h3 class="section-heading text-center">We buy IT, lab/test, A/V, telecom, and medical equipment!</h3>
+
 			<p id="modal-text">We got our start as an electronics equipment reseller over a decade ago and to this day it is a core part of what we do. Our expertise is in IT, lab/test, and medical equipment. We evaluate equipment of all varieties, in all conditions and quantities. Contact us today to see what we can offer for your equipment. 
+
 			</p>
 			
 
               <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ --> 
 		<div class="container-fluid" id="contactForm">
 			<div class = "row">
-			<form class="form-horizontal" role="form" method="post" action="index.php">
+			<form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe">
     <div class="form-group">
-        <label for="name" class="col-sm-2 control-label">Name</label>
+        <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required>
         </div>
     </div>
     <div class="form-group">
-        <label for="email" class="col-sm-2 control-label">Email</label>
+        <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required>
         </div>
     </div>
 
 	<div class="form-group">
-		<label for="serviceType" class="col-sm-2 control-label">Service Type</label>
+		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
 		<div class="col-sm-8">
 			<select class="form-control" id="serviceType">
 				<option value="one">Sell us your equipment</option>
@@ -185,13 +187,13 @@
     <div class="form-group">
         <label for="message" class="col-sm-2 control-label">Message</label>
         <div class="col-sm-8">
-            <textarea class="form-control" rows="3" name="message" placeholder="What would you like to talk with us about?"></textarea>
+            <textarea class="form-control" rows="3" name="message"></textarea>
         </div>
     </div>
 	 <div class="form-group">
-        <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+        <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
         <div class="col-sm-8">
-            <input type="text" class="form-control" id="human" name="human" placeholder="(Simple spam checker)">
+            <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
         </div>
     </div>
     <div class="form-group">
@@ -199,6 +201,9 @@
             <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
         </div>
     </div>
+    <div class="col-sm-12" id="frameDiv">   
+            <iframe name="myIframe" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
+        </div>
 </form>
 			</div>
 		</div>
@@ -545,7 +550,7 @@ Because we have extensive experience in hardware refreshes, recurring pickups, d
 					<div class="container">
             <div class="row">
                 <div class="col-lg-6 col-lg-offset-3  text-right">
-					<!-- Begin MailChimp Signup Form -->
+<!-- Begin MailChimp Signup Form -->
 
 <div id="mc_embed_signup">
 <form action="//avr-recycling.us6.list-manage.com/subscribe/post?u=3cff8a9d4df9dde6a8dd81831&amp;id=9e47f7cd03" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

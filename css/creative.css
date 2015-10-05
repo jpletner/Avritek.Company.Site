@@ -55,6 +55,7 @@ font-size: 13px;
 td {
     color: #6F6F6F;
     font-size: 13px;
+    padding: 0;
 }
 
 p {
@@ -91,7 +92,7 @@ p {
 }
 
 section {
-    padding: 60px 0;
+    padding: 25px 0;
 }
 
 .no-padding {
@@ -133,7 +134,7 @@ div #service-container{
 div .section-heading{
     color: #f05f40;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.8em;
     padding-bottom: .5%;
     margin: 1%;
 }
@@ -724,19 +725,27 @@ body {
  height:100%;
 }
 
-#modal-text{
-	margin: 3% 2% 0% 2%;
+p#modal-text{
+	padding: 3% 0 4% 0;
     font-size: 1em;
-    width: auto;
+    width: 80%;
     line-height: 2em;
-    
+    margin:auto;
+    text-align: center;
 }
 
 .modal-body li {
     position: relative;
     list-style-type: none;
-    left: 20%;
+    left: 25%;
     margin: 5%;
+}
+
+.modal.modal-wide .modal-dialog {
+  width: 90%;
+}
+.modal-wide .modal-body {
+  overflow-y: auto;
 }
 
 .quotebox{
