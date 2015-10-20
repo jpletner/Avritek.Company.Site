@@ -1,3 +1,31 @@
+Avritek Theme Readme:
+
+    * Rebranding site built for Avritek, a technology asset management company in San Diego, CA. 
+    * The company select the creative bootstrap theme for their site and requested that add customizations and functionality.
+    * I utilized PHP to create a functional Contact Form and connected their MailChimp email subscription list API
+    * I also made several HTML and CSS customizations with a focus on maintaining mobile responsivesness
+
+    *The site is currently in testing and needs requires several additional enhancements and optimizations including updates to the content. To be continued....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bootstrap Theme README:
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
