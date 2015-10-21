@@ -1,0 +1,1061 @@
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+Can't open socket: Connection refused at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 44.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+Can't open socket: Connection timed out at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 28.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+Use of uninitialized value in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/lib/perl5/site_perl/5.8.8/x86_64-linux/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 1.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 2.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46, <$FH> line 3.
+'/home3/avr/.cpanel/quickinstall/cache/.info' is non-existent or empty at /usr/local/cpanel/3rdparty/perl/514/lib64/perl5/cpanel_lib/x86_64-linux-64int/JSON/Syck.pm line 46.

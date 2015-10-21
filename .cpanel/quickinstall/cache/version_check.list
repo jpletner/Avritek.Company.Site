@@ -1,0 +1,259 @@
+{
+		"wordpress": {
+		"file": "wp-includes/version.php",
+		"regex": "\$wp_version\s+=\s+'([0-9.]+)'"
+	},
+		"lifetype": {
+		"file": "version.php",
+		"regex": "\$version\s+=\s+\"[a-z]+-([0-9.]+)"
+	},
+		"webcal": {
+		"file": "includes/config.php",
+		"regex": "\$PROGRAM_VERSION\s+=\s+'v([0-9.]+)'"
+	},
+		"phpfreechat": {
+		"file": "version.txt",
+		"regex": "\$PROGRAM_VERSION\s+=\s+'v([0-9.]+)"
+	},
+		"xchat": {
+		"file": "config.php",
+		"regex": "\$X7CHATVERSION\s+=\s+\"([0-9.]+)\""
+
+	},
+		"b2evolution": {
+		"file": "conf/_application.php",
+		"regex": "\$app_version\s+=\s+'([0-9.]+)'"
+	},
+		"concrete5": {
+		"file": "concrete/config/version.php",
+		"regex": "\$APP_VERSION\s+=\s+'([0-9.]+)'"
+	},
+		"drupal7": {
+		"file": "includes/bootstrap.inc",
+		"regex": "'VERSION',\s+'([0-9.]+)'"
+	},
+		"e107": {
+		"file": "e107_admin/ver.php",
+		"regex": "\$e107info\['e107_version'\]\s+=\s+\"([0-9.]+)\""
+	},
+		"geeklog": {
+		"file": "siteconfig.php",
+		"regex": "'VERSION',\s+'([0-9.]+)'"
+	},
+		"glfusion": {
+		"file": "lib-common.php",
+		"regex": "'GVERSION',\s+'([0-9.]+)'"
+	},
+		"hotaru": {
+		"file": "Hotaru.php",
+		"regex": "\$version\s+=\s+\"([0-9.]+)\""
+	},
+		"mambo": {
+		"file": "administrator/components/com_admin/version.xml",
+		"regex": "version.([0-9.]+).*version"
+	},
+                "nucleus": {
+		"file": "nucleus/libs/globalfunctions.php",
+		"regex": "\$nucleus\['version'\]\s+=\s+'v([0-9.]+)'"
+	},
+		"phpwcms": {
+		"file": "include/inc_lib/default.inc.php",
+		"regex": "\$phpwcms\[\"release\"\]\s+=\s+'([0-9.]+)'"
+	},
+		"pligg": {
+		"file": "languages/lang_english.conf",
+		"regex": "VERSION.([0-9.]+).*VERSION"
+	},
+		"textpattern": {
+		"file": "textpattern/index.php",
+		"regex": "\$thisversion\s+=\s+'([0-9.]+)'"
+	},
+		"xoops": {
+		"file": "include/version.php",
+		"regex": "'XOOPS_VERSION',\s+'XOOPS\s+([0-9.]+)'"
+	},
+		"zikula": {
+		"file": "includes/pnAPI.php",
+		"regex": "'PN_VERSION_NUM',\s+'([0-9.]+)'"
+	},
+		"phpcoin": {
+		"file": "version.php",
+		"regex": "\$ThisVersion\s+=\s+'([0-9.]+)'"
+	},
+		"prestashop": {
+		"file": "config/settings.inc.php",
+		"regex": "'_PS_VERSION_',\s+'([0-9.]+)'"
+	},
+		"sugarcrm": {
+		"file": "sugar_version.php",
+		"regex": "\$sugar_version\s+=\s+'([0-9.]+)'"
+	},
+		"tomatocart": {
+		"file": "admin/includes/application_top.php",
+		"regex": "'PROJECT_VERSION',\s+'TomatoCart\s+v([0-9.]+)"
+	},
+                "vtigercrm": {
+                "file": "vtigerversion.php",
+                "regex": "\$vtiger_current_version\s+=\s+'([0-9.]+)';"
+        },
+                "zencart": {
+                "file": "admin-1329941211/includes/configure.php",
+                "regex": "package\s+Configuration\s+Settings\s+circa\s+([0-9.]+)"
+        },
+                "claroline": {
+                "file": "platform/currentVersion.inc.php",
+                "regex": "\$clarolineVersion\s+=\s+\"([0-9.]+)\""
+        },
+                "moodle": {
+                "file": "version.php",
+                "regex": "\$release\s+=\s+'([0-9.]+)\s+."
+        },
+                "aefdd": {
+                "file": "index.php",
+                "regex": "Version\s+:\s+([0-9.]+)"
+        },
+                "mybb": {
+                "file": "inc/class_core.php",
+                "regex": "public\s+\$version\s+=\s+\"([0-9.]+)\""
+        },
+                "punbb": {
+                "file": "cache/cache_config.php",
+                "regex": "'o_cur_version'\s+.+\s+'([0-9.]+)'"
+        },
+                "smf": {
+                "file": "index.php",
+                "regex": "\$forum_version\s+=\s+'SMF\s+([0-9.]+)'"
+        },
+                "4images": {
+                "file": "global.php",
+                "regex": "Scriptversion:\s+([0-9.]+)"
+        },
+		"coppermine": {
+                "file": "versioncheck.php",
+                "regex": "Coppermine\s+version:\s+([0-9.]+)"
+        },
+                "gallery": {
+                "file": "modules/gallery/helpers/gallery.php",
+                "regex": "\s+const\s+VERSION\s+=\s+\"([0-9.]+)\""
+        },
+                "": {
+                "file": "include/constants.php",
+                "regex": "'PHPWG_VERSION',\s+'([0-9.]+)'"
+        },
+                "pixelpost": {
+                "file": "ReadMe.txt",
+                "regex": "Pixelpost\s+version\s+([0-9.]+)\s+"
+        },
+                "zenphoto": {
+                "file": "zp-core/version.php",
+                "regex": "'ZENPHOTO_VERSION',\s+'([0-9.]+)'"
+        },
+                "dadamail": {
+                "file": "DADA/Config.pm",
+                "regex": "\$VERSION\s+=\s+([0-9.]+)"
+        },
+                "phplist": {
+                "file": "admin/connect.php",
+                "regex": "\"VERSION\",\"([0-9.]+)\""
+        },
+                "phprojekt": {
+                "file": "VERSION",
+                "regex": "PHProjekt\s+([0-9.]+)"
+        },
+                "zpush": {
+                "file": "version.php",
+                "regex": "\$zpush_version\s+=\s+\"([0-9.]+)-.+\""
+        },
+                "elgg": {
+                "file": "version.php",
+                "regex": "\$release\s+=\s+'([0-9.]+)'"
+        },
+                "jcow": {
+                "file": "includes/libs/common.inc.php",
+                "regex": "\$version\s+=\s+'([0-9.]+)'"
+        },
+                "mantisbt": {
+                "file": "core/constant_inc.php",
+                "regex": "'MANTIS_VERSION',\s+'([0-9.]+)'"
+        },
+                "opendocman": {
+                "file": "version.php",
+                "regex": "\$GLOBALS\['CONFIG'\]\['current_version'\]\s+=\s+'([0-9.]+)'"
+        },
+                "advancedpoll": {
+                "file": "misc/get_admin.php",
+                "regex": "\$version\s+=\s+\"([0-9.]+)\""
+        },
+                "limesurvey": {
+                "file": "version.php",
+                "regex": "\$versionnumber\s+=\s+\"([0-9.]+)."
+        },
+                "phpesp": {
+                "file": "admin/phpESP.ini.php.fixed",
+                "regex": "\$ESPCONFIG\['version'\]\s+=\s+'([0-9.]+)'"
+        },
+                "mediawiki": {
+                "file": "includes/DefaultSettings.php",
+                "regex": "\$wgVersion\s+=\s+'([0-9.]+)'"
+        },
+                "wikka": {
+                "file": "wikka.config.php",
+                "regex": "'wakka_version'\s+.+\s+'([0-9.]+)'"
+        },
+		"phpBB": {
+		"file": "includes/constants.php",
+		"regex": "'PHPBB_VERSION',\s+'([0-9.]+)'"
+	},
+		"dewnewphplinks": {
+		"file": "include/lang/english.php",
+		"regex": ".Dew-NewPHPLinks\s+v.([0-9.]+).*\""
+        },
+                "dotproject": {
+                "file": "db/dotproject.sql",
+                "regex": "%dbprefix%dpversion\s+VALUES\s+\('([0-9.]+)'."
+        },
+                "drupal6": {
+                "file": "modules/path/path.info",
+                "regex": "version\s+=\s+\"([0-9.]+)\""
+        
+        },
+                "lazarus": {
+                "file": "admin/version.php",
+                "regex": "'LAZBUILD',\s+'([0-9.]+)'"
+        
+        },
+                "piwigo": {
+                "file": "include/constants.php",
+                "regex": "'PHPWG_VERSION',\s+'([0-9.]+)'"
+       
+        },
+                "pmwiki": {
+                "file": "scripts/version.php",
+                "regex": "\$Version=\"pmwiki-([0-9.]+)\""  
+        },
+                "tiki": {
+                "file": "db/local.php",
+                "regex": "\$dbversion_tiki='([0-9.]+)'"
+       
+        },
+                "typo3": {
+                "file": "t3lib/config_default.php",
+                "regex": "\$TYPO_VERSION\s+=\s+'([0-9.]+)'"
+        },
+                "joomla17": {
+                "advanced": "true",
+                "lists": ["regex1", "regex2"],
+                "file": "includes/version.php",
+                "regex1": "\$RELEASE\s+=\s+'([0-9.]+)'",
+                "regex2": "\$DEV_LEVEL\s+=\s+'([0-9.]+)'",
+                "version": "%regex1.%regex2"
+        },
+                "joomla": {
+                "advanced": "true",
+                "lists": ["regex1", "regex2"],
+                "file": "includes/version.php",
+                "regex1": "\$RELEASE\s+=\s+'([0-9.]+)'",
+                "regex2": "\$DEV_LEVEL\s+=\s+'([0-9.]+)'",
+                "version": "%regex1.%regex2"
+        }
+}

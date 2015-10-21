@@ -1,0 +1,1 @@
+{"statusmsg":"Ran adminbin Cpanel/apache/LISTSUBDOMAINS","mode":"simple","status":1,"version":"2.3","data":{"avrrecycling_avr-recycling.com":"/home3/avr/public_html/avrrecycling.com","blog_avritek.com":"/home3/avr/public_html/avritek.com/blog","avritek_avr-recycling.com":"/home3/avr/public_html/avritek.com"},"exit_code":0,"timeout":0,"error":0,"action":"fetch"}

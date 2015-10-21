@@ -1,0 +1,1199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zerif Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-17 14:38+0200\n"
+"PO-Revision-Date: 2015-07-17 14:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: themeisle <friends@themeisle.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: sections\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:39
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:42
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:45
+msgid "Asides"
+msgstr ""
+
+#: archive.php:48
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:51
+msgid "Images"
+msgstr ""
+
+#: archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:60
+msgid "Links"
+msgstr ""
+
+#: archive.php:63
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:66
+msgid "Audios"
+msgstr ""
+
+#: archive.php:69
+msgid "Chats"
+msgstr ""
+
+#: archive.php:72
+msgid "Archives"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+#: functions.php:452
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+#: functions.php:454
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+#: functions.php:456
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:336
+#: functions.php:458
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+#: functions.php:480
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:399
+#: class-tgm-plugin-activation.php:3029
+#: functions.php:482
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:400
+#: class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2422
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:35
+#: comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-large.php:86
+#: content-page.php:18
+#: content-single.php:1
+#: content.php:89
+msgid "Pages:"
+msgstr ""
+
+#: content-large.php:122
+#: content-large.php:142
+#: content-single.php:1
+#: content.php:110
+#: content.php:130
+msgid ", "
+msgstr ""
+
+#: content-large.php:130
+#: content.php:118
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-large.php:150
+#: content.php:138
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-large.php:161
+#: content.php:150
+msgid "Leave a comment"
+msgstr ""
+
+#: content-large.php:161
+#: content.php:150
+msgid "1 Comment"
+msgstr ""
+
+#: content-large.php:161
+#: content.php:150
+msgid "% Comments"
+msgstr ""
+
+#: content-large.php:165
+#: content-page.php:23
+#: content-single.php:1
+#: content.php:156
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: footer.php:29
+msgid "Company address"
+msgstr ""
+
+#: footer.php:144
+msgid "powered by"
+msgstr ""
+
+#: front-page.php:142
+msgid "* Please enter your name."
+msgstr ""
+
+#: front-page.php:163
+msgid "* Please enter your email address."
+msgstr ""
+
+#: front-page.php:172
+msgid "* You entered an invalid email address."
+msgstr ""
+
+#: front-page.php:193
+msgid "* Please enter a subject."
+msgstr ""
+
+#: front-page.php:214
+msgid "* Please enter a message."
+msgstr ""
+
+#: front-page.php:387
+msgid "Get in touch"
+msgstr ""
+
+#: front-page.php:407
+msgid "Thanks, your email was sent successfully!"
+msgstr ""
+
+#: front-page.php:411
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: front-page.php:451
+msgid "Your Name"
+msgstr ""
+
+#: front-page.php:457
+msgid "Your Email"
+msgstr ""
+
+#: front-page.php:463
+msgid "Subject"
+msgstr ""
+
+#: front-page.php:469
+msgid "Your Message"
+msgstr ""
+
+#: front-page.php:474
+msgid "Send Message"
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:167
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:183
+msgid "Our focus section"
+msgstr ""
+
+#: functions.php:199
+msgid "Testimonials section"
+msgstr ""
+
+#: functions.php:215
+msgid "About us section"
+msgstr ""
+
+#: functions.php:231
+msgid "Our team section"
+msgstr ""
+
+#: functions.php:256
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:257
+msgctxt "Homemade font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:262
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:484
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:526
+msgid "Default title"
+msgstr ""
+
+#: functions.php:673
+msgid "Title"
+msgstr ""
+
+#: functions.php:683
+#: functions.php:908
+msgid "Text"
+msgstr ""
+
+#: functions.php:695
+#: functions.php:1037
+msgid "Link"
+msgstr ""
+
+#: functions.php:703
+#: functions.php:919
+#: functions.php:1049
+#: functions.php:1367
+msgid "Image"
+msgstr ""
+
+#: functions.php:725
+#: functions.php:943
+#: functions.php:1073
+#: functions.php:1390
+msgid "Upload Image"
+msgstr ""
+
+#: functions.php:880
+msgid "Author"
+msgstr ""
+
+#: functions.php:890
+msgid "Author link"
+msgstr ""
+
+#: functions.php:898
+msgid "Author details"
+msgstr ""
+
+#: functions.php:1267
+msgid "Name"
+msgstr ""
+
+#: functions.php:1279
+msgid "Position"
+msgstr ""
+
+#: functions.php:1293
+msgid "Description"
+msgstr ""
+
+#: functions.php:1307
+msgid "Facebook link"
+msgstr ""
+
+#: functions.php:1320
+msgid "Twitter link"
+msgstr ""
+
+#: functions.php:1333
+msgid "Behance link"
+msgstr ""
+
+#: functions.php:1346
+msgid "Dribble link"
+msgstr ""
+
+#: functions.php:1357
+msgid "Linkedin link"
+msgstr ""
+
+#: functions.php:1437
+#: functions.php:1438
+msgid "More Themes"
+msgstr ""
+
+#: functions.php:1465
+msgid "Simple and effective products, no complex frameworks, no drag & drop builders."
+msgstr ""
+
+#: functions.php:1500
+msgid "Current theme"
+msgstr ""
+
+#: functions.php:1546
+msgid "Already installed"
+msgstr ""
+
+#: functions.php:1561
+msgid "Install Now"
+msgstr ""
+
+#: functions.php:1565
+msgid "Live Preview"
+msgstr ""
+
+#: header.php:91
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:47
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> for full control over the frontpage SECTIONS ORDER and the COLOR SCHEME!"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> to add a google maps section !"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> to add a pricing section !"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "To add clients here please go to:<br> Customize -> Widgets -> About us section.<br> There you must add the \"Zerif - Clients widget\""
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Sections order and Colors"
+msgstr ""
+
+#: inc/customizer.php:99
+#: inc/customizer.php:259
+msgid "General options"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:110
+#: inc/customizer.php:266
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:122
+#: inc/customizer.php:278
+msgid "Disable preloader?"
+msgstr ""
+
+#: inc/customizer.php:134
+#: inc/customizer.php:290
+msgid "Disable smooth scroll?"
+msgstr ""
+
+#: inc/customizer.php:143
+#: inc/customizer.php:299
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Socials"
+msgstr ""
+
+#: inc/customizer.php:190
+#: inc/customizer.php:339
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:205
+#: inc/customizer.php:347
+msgid "Email section - icon"
+msgstr ""
+
+#: inc/customizer.php:214
+#: inc/customizer.php:356
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:223
+#: inc/customizer.php:365
+msgid "Phone number section - icon"
+msgstr ""
+
+#: inc/customizer.php:232
+#: inc/customizer.php:372
+#: inc/customizer.php:374
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer.php:241
+#: inc/customizer.php:383
+msgid "Address section - icon"
+msgstr ""
+
+#: inc/customizer.php:250
+#: inc/customizer.php:392
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Zerif theme general options"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "support@codeinwp.com"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "24B, Fainari Street, Bucharest, Romania"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Big title section"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Hide big title section?"
+msgstr ""
+
+#: inc/customizer.php:419
+#: sections/big_title.php:1
+msgid "ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG"
+msgstr ""
+
+#: inc/customizer.php:427
+#: sections/big_title.php:1
+msgid "Features"
+msgstr ""
+
+#: inc/customizer.php:429
+#: inc/customizer.php:444
+msgid "Red button label"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Red button link"
+msgstr ""
+
+#: inc/customizer.php:442
+#: sections/big_title.php:1
+msgid "What's inside"
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "Green button link"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Our focus section. There you must add the \"Zerif - Our focus widget\""
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Hide our focus section?"
+msgstr ""
+
+#: inc/customizer.php:477
+#: sections/our_focus.php:1
+msgid "FEATURES"
+msgstr ""
+
+#: inc/customizer.php:486
+#: sections/our_focus.php:1
+msgid "What makes this single-page WordPress theme unique."
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Our focus subtitle"
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer.php:516
+#: inc/customizer.php:730
+msgid "Hide about us section?"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "Main content"
+msgstr ""
+
+#: inc/customizer.php:529
+#: inc/customizer.php:736
+#: sections/about_us.php:13
+msgid "About"
+msgstr ""
+
+#: inc/customizer.php:537
+#: inc/customizer.php:744
+#: sections/about_us.php:25
+msgid "Use this section to showcase important details about your business."
+msgstr ""
+
+#: inc/customizer.php:539
+#: inc/customizer.php:746
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:545
+#: inc/customizer.php:752
+#: sections/about_us.php:59
+msgid "Everything you see here is responsive and mobile-friendly."
+msgstr ""
+
+#: inc/customizer.php:547
+#: inc/customizer.php:754
+msgid "Big left side title"
+msgstr ""
+
+#: inc/customizer.php:553
+#: inc/customizer.php:760
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+msgstr ""
+
+#: inc/customizer.php:562
+msgid "Feature no#1"
+msgstr ""
+
+#: inc/customizer.php:568
+#: inc/customizer.php:768
+#: sections/about_us.php:61
+msgid "YOUR SKILL #1"
+msgstr ""
+
+#: inc/customizer.php:570
+#: inc/customizer.php:770
+msgid "Feature no1 title"
+msgstr ""
+
+#: inc/customizer.php:577
+#: inc/customizer.php:777
+msgid "Feature no1 text"
+msgstr ""
+
+#: inc/customizer.php:589
+#: inc/customizer.php:789
+msgid "Feature no1 percentage"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Feature no#2"
+msgstr ""
+
+#: inc/customizer.php:604
+#: inc/customizer.php:797
+#: sections/about_us.php:208
+msgid "YOUR SKILL #2"
+msgstr ""
+
+#: inc/customizer.php:606
+#: inc/customizer.php:799
+msgid "Feature no2 title"
+msgstr ""
+
+#: inc/customizer.php:613
+#: inc/customizer.php:806
+msgid "Feature no2 text"
+msgstr ""
+
+#: inc/customizer.php:625
+#: inc/customizer.php:818
+msgid "Feature no2 percentage"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Feature no#3"
+msgstr ""
+
+#: inc/customizer.php:640
+#: inc/customizer.php:826
+#: sections/about_us.php:254
+msgid "YOUR SKILL #3"
+msgstr ""
+
+#: inc/customizer.php:642
+#: inc/customizer.php:828
+msgid "Feature no3 title"
+msgstr ""
+
+#: inc/customizer.php:649
+#: inc/customizer.php:835
+msgid "Feature no3 text"
+msgstr ""
+
+#: inc/customizer.php:661
+#: inc/customizer.php:847
+msgid "Feature no3 percentage"
+msgstr ""
+
+#: inc/customizer.php:670
+msgid "Feature no#4"
+msgstr ""
+
+#: inc/customizer.php:676
+#: inc/customizer.php:855
+#: sections/about_us.php:298
+msgid "YOUR SKILL #4"
+msgstr ""
+
+#: inc/customizer.php:678
+#: inc/customizer.php:857
+msgid "Feature no4 title"
+msgstr ""
+
+#: inc/customizer.php:685
+#: inc/customizer.php:864
+msgid "Feature no4 text"
+msgstr ""
+
+#: inc/customizer.php:697
+#: inc/customizer.php:876
+msgid "Feature no4 percentage"
+msgstr ""
+
+#: inc/customizer.php:706
+msgid "Clients area"
+msgstr ""
+
+#: inc/customizer.php:891
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Our team section. There you must add the \"Zerif - Team member widget\""
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Hide our team section?"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "YOUR TEAM"
+msgstr ""
+
+#: inc/customizer.php:913
+msgid "Prove that you have real people working for you, with some nice looking profile pictures and links to social media."
+msgstr ""
+
+#: inc/customizer.php:915
+msgid "Our team subtitle"
+msgstr ""
+
+#: inc/customizer.php:926
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Testimonials section. There you must add the \"Zerif - Testimonial widget\""
+msgstr ""
+
+#: inc/customizer.php:934
+msgid "Hide testimonials section?"
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer.php:950
+msgid "Testimonials subtitle"
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "Latest News section"
+msgstr ""
+
+#: inc/customizer.php:968
+msgid "Hide latest news section?"
+msgstr ""
+
+#: inc/customizer.php:976
+msgid "Latest News title"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Latest News subtitle"
+msgstr ""
+
+#: inc/customizer.php:997
+#: inc/customizer.php:1061
+msgid "Ribbon sections"
+msgstr ""
+
+#: inc/customizer.php:1000
+msgid "BottomButton Ribbon"
+msgstr ""
+
+#: inc/customizer.php:1016
+#: inc/customizer.php:1046
+#: inc/customizer.php:1164
+msgid "Button label"
+msgstr ""
+
+#: inc/customizer.php:1024
+#: inc/customizer.php:1054
+msgid "Button link"
+msgstr ""
+
+#: inc/customizer.php:1030
+msgid "RightButton Ribbon"
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Ribbon section with bottom button - Text"
+msgstr ""
+
+#: inc/customizer.php:1076
+msgid "Ribbon section with bottom button - Button label"
+msgstr ""
+
+#: inc/customizer.php:1084
+msgid "Ribbon section with bottom button - Button link"
+msgstr ""
+
+#: inc/customizer.php:1093
+msgid "Ribbon section with button in the right side - Text"
+msgstr ""
+
+#: inc/customizer.php:1101
+msgid "Ribbon section with button in the right side - Button label"
+msgstr ""
+
+#: inc/customizer.php:1109
+msgid "Ribbon section with button in the right side - Button link"
+msgstr ""
+
+#: inc/customizer.php:1119
+msgid "Contact us section"
+msgstr ""
+
+#: inc/customizer.php:1128
+msgid "Hide contact us section?"
+msgstr ""
+
+#: inc/customizer.php:1136
+msgid "Contact us section title"
+msgstr ""
+
+#: inc/customizer.php:1144
+msgid "Contact us section subtitle"
+msgstr ""
+
+#: inc/customizer.php:1154
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer.php:1175
+msgid "Hide reCaptcha?"
+msgstr ""
+
+#: inc/customizer.php:1183
+msgid "Site key"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Create an account here"
+msgstr ""
+
+#: inc/customizer.php:1192
+msgid "Secret key"
+msgstr ""
+
+#: inc/customizer.php:1201
+msgid "Google maps section"
+msgstr ""
+
+#: inc/customizer.php:1216
+msgid "Pricing section"
+msgstr ""
+
+#: inc/customizer.php:1257
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:1258
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer.php:1259
+msgid "Leave a review (it will help us)"
+msgstr ""
+
+#: inc/customizer.php:1260
+msgid "Support Forum"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:155
+#, php-format
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr ""
+
+#: sections/about_us.php:335
+msgid "OUR HAPPY CLIENTS"
+msgstr ""
+
+#: sections/latest_news.php:24
+msgid "Latest news"
+msgstr ""
+
+#: sections/latest_news.php:144
+msgid "Previous"
+msgstr ""
+
+#: sections/latest_news.php:148
+msgid "Next"
+msgstr ""
+

@@ -1,0 +1,111 @@
+
+/* Post Info and Meta */
+
+	.entry-meta {
+		clear: both;
+		line-height: 1.5;
+		color: shade($light,70%);
+		/*@include rem(font-size, 14px)*/
+	}
+
+	.entry-header .entry-meta {
+		@include rem(margin-bottom, 24px);
+	}
+
+	.entry-footer .entry-meta {
+		border-top: 1px solid #ccc;
+		@include rem(padding-top, 24px);
+	}
+
+	.entry-meta .entry-comments {
+		background: url(images/post-comments.png) no-repeat center left;		
+		@include rem(margin-left, 16px);
+		@include rem(padding-left, 20px);
+		color: $textColor;
+	}
+
+	.entry-categories,
+	.entry-tags {
+		display: block;
+	}
+
+	.entry-time {
+		color: $dark;
+	}
+
+
+/* Comments */
+
+	.entry-comments,
+	#respond {
+		line-height: 1.5;
+		overflow: hidden;
+	}
+
+	.ping-list,
+	.entry-comments {
+		@include rem(margin-bottom, 48px);
+	}
+
+	.comment-form-author,
+	.comment-form-email,
+	.comment-form-url {
+		width: 50%;
+	}
+
+	.commentmetadata,
+	.comment-form-author,
+	.comment-form-email,
+	.comment-form-url {
+		@include rem(margin-bottom, 12px);
+	}
+
+	.comment-form-comment {
+		@include rem(margin, 12px 0);
+	}
+
+	/*label {
+		margin-left: 12px;
+		@include rem(margin-left, 12);
+	}*/
+
+	.comment-list li,
+	.ping-list li {
+		list-style-type: none;
+		@include rem(margin-top, 24px);
+		@include rem(padding, 32px);
+		border-radius:10px;
+	}
+
+	.comment-list li ul li {
+		@include rem(margin-right, -32px);
+	}
+
+	.comment-header {
+		overflow: hidden;
+	}
+
+	.comment {
+		background-color: shade($light,4%);
+		border: 1px solid shade($light,10%);
+		
+	}
+
+	.comment-content p {
+		@include rem(margin-bottom, 24px);
+	}
+
+	.bypostauthor {
+	}
+
+	.entry-comments .navigation {
+		@include rem(margin-top, 32px);
+	}
+
+	.comment-list li .avatar {
+		float: left;
+		@include rem(margin, 0 16px 24px 0);
+		border-radius:8px;
+	}
+
+

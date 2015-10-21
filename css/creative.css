@@ -218,7 +218,7 @@ header {
     text-align: center;
     color: #fff;
 	text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.7);
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/servers.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/Servers.jpg);
 	opacity:0.90;
     background-position: center;
     -webkit-background-size: cover;
@@ -399,6 +399,7 @@ header .header-content .header-content-inner h1 {
     margin-bottom: 0;
     text-transform: uppercase;
     font-weight: 700;
+/*    font-size: 65px;*/
 }
 
 header .header-content .header-content-inner hr {
@@ -422,7 +423,7 @@ header .header-content .header-content-inner p {
 
 .service-heading{
     margin-top: 0;
-	 color:#f05f40;	
+    color:#f05f40;	
 }
 
 .service-box {
@@ -839,8 +840,4 @@ footer {
         font-size: 22px;
     }
 }
-
-
  
-
-    

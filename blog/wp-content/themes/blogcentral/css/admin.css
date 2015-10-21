@@ -1,0 +1,536 @@
+/**
+ * Theme Name: BlogCentral
+ * Theme URI: http://4bzthemes.com/theme/blogcentral/
+ * Author: 4bzthemes
+ * Author URI: http://4bzthemes.com
+ * File Description: Stylesheet for administration side.
+ *
+ * @since BlogCentral 1.0.0
+ *
+ * @package BlogCentral
+ * @subpackage admin.css
+-------------------------------------------------------------------------
+
+	Table of Contents
+	
+	1. Font Face + Clear Floats
+	2. BlogCentral Options
+	3. Jquery Tabs
+	4. General
+-------------------------------------------------------------------------*/
+
+/**
+ * 1. Font Face + Clear Floats
+ *-----------------------------------------------------------------------*/
+
+/* Import fonts */
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+
+/* Clear floats */
+.layout-img:after,
+td:after,
+.clearer:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/**
+ * 2. BlogCentral Options
+ *-----------------------------------------------------------------------*/
+
+.blogcentral-wrap {
+	font-family: "Open Sans","Helvetica Neue", Helvetica,Arial, sans-serif;
+	font-size: 13px;
+	font-size-adjust: none; 
+	font-stretch: normal;
+	line-height: normal;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+
+.blogcentral-wrap img {
+	height: auto;
+	width: 100%;
+}
+
+img.actual-size {
+	height: auto;
+	width: auto;
+}
+
+.text-format {
+	/*font-size: 12px;
+	line-height: 21px;*/
+}
+
+/* Options Form */
+.options-logo {
+	color: #0071d8;
+	font-size: 30px;
+	margin-bottom: 24px;
+}
+
+.rate-theme {
+	font-size: 16px;
+	line-height: 1.6em;
+	margin-bottom: 24px;
+	margin-right: 2%;
+	width: 48%;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.rate-theme .fa {
+	color: #0071d8;
+}
+
+.rate-theme a {
+	text-decoration: underline;
+}
+
+#newsletter-signup {
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#newsletter-signup h2 {
+	*color: #0071d8;
+	text-align: center;
+}
+.mc_success_msg {color: #ac0a99;}
+#mce-error-response {color: black;}
+
+.blogcentral-wrap table th,
+.blogcentral-wrap table td {
+	font-weight: normal;
+	margin-top: 0;
+	padding-bottom: 24px;
+	padding-top: 0;
+}
+
+.blogcentral-wrap table th {
+	text-transform: capitalize;
+}
+
+.blogcentral-wrap table tr input[type="text"]:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.blogcentral-wrap input[type="text"],
+.blogcentral-wrap select,
+.blogcentral-wrap textarea,
+.blogcentral-shortcode-options-wrap input[type="text"],
+.blogcentral-shortcode-options-wrap select,
+.blogcentral-shortcode-options-wrap textarea {
+	display: block;
+	margin-bottom: 24px;
+	margin-top: 6px;
+}
+
+.blogcentral-wrap input[type="checkbox"],
+.blogcentral-wrap input[type="radio"],
+.blogcentral-shortcode-options-wrap input[type="checkbox"],
+.blogcentral-shortcode-options-wrap input[type="radio"] {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.blogcentral-wrap input[type="text"].blogcentral-color-field {
+	display: inline-block;
+	margin: 0 !important;
+	
+}
+
+.blogcentral-wrap .icon-image-btn {
+	display: block;
+	margin-bottom: 24px;
+	margin-top: 12px;
+}
+
+div.group {
+	margin-bottom: 24px;
+	margin-top: 6px;
+}
+
+div.group label {
+	display: inline;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+label {
+	line-height:26px;
+}
+option.disabled {
+	font-style: italic;
+	margin: 5px;
+}
+
+/* Containers for component layouts */
+.layout-wrap {
+	margin-top: 12px;
+}
+
+.layout-img {
+	margin-bottom: 24px;
+}
+
+.layout2 .layout-img p {
+	overflow: hidden;
+}
+
+.layout2 .layout-img img {
+	float: left;
+	padding-right: 5px;
+	width: 40%;
+}
+
+/* Sections Style */
+.section-title {
+	color: #000;
+	font-size: 14px;
+	line-height: 26px;
+	text-transform: none;
+}
+
+p.section-title {
+	margin: 12px 0;
+}
+
+.subsection-title{
+	font-size: 12px;
+}
+
+.instruction {
+	background-color: #fafafa;
+	color: #afafaf;
+	font-style: italic;
+	line-height: 20px;
+	padding: 5px;
+}
+
+.blogcentral-icon-chooser {
+	margin: 12px 0;
+}
+
+.blogcentral-icon-chooser .fa {
+	color: black;
+	padding: 10px;
+}
+
+.blogcentral-icon-chooser .fa:hover {
+	cursor: pointer;
+}
+
+/* Color Scheme */
+.color-scheme {
+	display: inline-block;
+	height: 15px;
+	margin-right: 5px;
+	vertical-align: top;
+	width: 15px;
+}
+
+.color-scheme1 {  
+	background-color: #000000;
+}
+
+.color-scheme2 {  
+	background-color: #d00000;
+}
+
+.color-scheme3 {  
+	background-color: #0071d8;
+}
+
+.color-scheme4 {  
+	background-color: #555555;
+}
+ 
+.color-scheme5 {  
+	background-color: #159594;
+}
+ 
+/* Buttons */
+.button1 {
+	background: -webkit-linear-gradient(#0071d8, #fff);
+	background: -moz-linear-gradient( #0071d8, #fff);
+	background: -ms-linear-gradient(top,#0071d8,#fff); 
+	background: -o-linear-gradient(#0071d8, #fff);
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#0071d8), to(#fff));
+	background: linear-gradient(#0071d8, #fff); /* Standard syntax */
+	border: none;
+	color: white;
+	font-weight: bold;
+	margin-top: 1em;
+	padding: 1% 2%;
+}
+
+.button-2 {
+	background: #444;
+	border: none;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 13px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.button-3 {
+	background: #009dde;
+	border: none;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 13px;
+	padding: 5px;
+}
+
+.button-2:hover,
+.button-3:hover {
+	-webkit-box-shadow: 0 3px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 3px 3px rgba(0,0,0,.3);
+	box-shadow: 0 3px 3px rgba(0,0,0,.3);
+	cursor: pointer;
+}
+
+/* Dividers & Borders Style */
+.div1 {
+	border-top: 2px solid currentColor; 
+	border-bottom: 2px solid currentColor;
+	padding: 6px 0;
+}
+
+.div2 {
+	padding-right: 5%;
+}
+
+.div2:after {
+	border-bottom: 2px solid currentColor;
+	border-top: 2px solid currentColor;
+	content: "";
+    height: 15%;
+	line-height: 6px;
+	overflow: hidden;
+    position: absolute;
+	right: 5%;
+	top: 25%;
+	width: 5%;
+}
+
+.div3:before {
+	border-bottom: 2px solid currentColor;
+	bottom: 0;
+	content: "";
+    height: 20%;
+	left: 0;
+    position: absolute;
+	width: 30%;
+	z-index: 1;
+}
+
+.div3:after {
+	border-bottom: 2px solid rgba(0,0,0,.05);
+	bottom: 0;
+	content: "";
+    height: 20%;
+	left: 0;
+    position: absolute;
+	width: 100%;
+}
+
+.div1,
+.div2,
+.div3 {
+	overflow: hidden;
+	padding-bottom: 6px;
+	position: relative;
+}
+
+.border-ex {
+	display: block;
+}
+
+/**
+ * 3. jQuery Tabs
+ *-----------------------------------------------------------------------*/
+ 
+/* jQuery tabs- general settings */
+.ui-tabs {
+	border: none;
+	position: relative;
+}
+
+.ui-tabs .ui-tabs-nav li a {
+	display: block;
+	font-family: "Open Sans","Helvetica Neue", Helvetica,Arial, sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.ui-tabs .ui-tabs-nav {
+	background: white;
+	font-size: 0;
+}
+
+.ui-tabs .ui-tabs-nav li {
+	background-color: #eaeaea;
+	background-image: -webkit-linear-gradient(top, #f6f6f6, #eaeaea);
+	background-image: -moz-linear-gradient(top, #f6f6f6, #eaeaea); 
+	background-image: -ms-linear-gradient(top, #f6f6f6, #eaeaea); 
+	background-image: -o-linear-gradient(top, #f6f6f6, #eaeaea);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f6f6f6), to(#eaeaea));
+	background-image: linear-gradient(top, #f6f6f6, #eaeaea);
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	padding: 10px;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.ui-tabs-panel {
+	background: white;
+	border: none;
+	padding: 12px 3%;
+}
+
+/* Tabs layouts */
+.tabs-layout1 .ui-tabs-active {
+	background: #fff url('css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png') 50% 50% repeat-x !important;
+	border: 1px solid #eee;
+	border-bottom: none;
+	bottom: -1px;
+}
+
+.tabs-layout1 .ui-tabs-active:after {
+	background-color: white;
+	bottom: -1px;
+	content: '';
+	height: 1px;
+	position: absolute;
+	width: 100%;
+}
+
+.tabs-layout1.ui-tabs .ui-tabs-nav li {
+	margin-right: 5px;
+}
+
+.tabs-layout1 .ui-tabs-panel {
+	border: 1px solid #eee;
+	min-height: 100px;
+}
+
+.tabs-layout1.no-border .ui-tabs-panel {
+	border: none;
+	min-height: 100px;
+}
+
+.tabs-layout1.no-border .ui-tabs-active {
+	border: 1px solid #eee;
+	bottom: 0;
+}
+
+.ui-tabs.tabs-layout2  {
+	background-color: white;
+	border: 1px solid #eee;
+	font-size: 0;
+}
+
+.ui-tabs.tabs-layout2 > .ui-tabs-nav {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+}
+
+.ui-tabs.tabs-layout2 > .ui-tabs-nav  > li {
+	display: block;	
+	text-align: left;
+}
+							
+.ui-tabs.tabs-layout2 .ui-tabs-nav li a .fa {
+	padding-right: 5px;
+}
+
+.ui-tabs.tabs-layout2  > .ui-tabs-panel {
+	display: inline-block;
+	font-size: 13px;
+	height: 100%;
+	vertical-align: top;
+	width: 73%;
+}
+
+.tabs-layout2 > .ui-tabs-nav  > .ui-tabs-active {
+	background: #fff !important;
+	border: 1px solid #eee;
+	border-right: none;
+}
+
+/**
+ * 4. General
+ *-----------------------------------------------------------------------*/
+.closer {
+	color: black;
+	cursor: pointer;
+	font-size: 16px;
+	text-align: right;
+}
+
+.loader {
+	background:  url( 'http://localhost/wordpress/wp-content/themes/blogcentral/images/loader.GIF') no-repeat;
+	background-size: cover;
+	cursor: wait;
+	display: none;
+	height: 25px;
+	position: relative;
+	width: 25px;
+	z-index: 1;
+}
+
+ul.sortable li {
+	cursor: -webkit-grab;
+	cursor: -moz-grab;
+	cursor: grab;
+}
+
+/* MailChimp Newsletter */
+#mc_embed_signup {
+	background:#eee;
+	border:2px solid #dedede;
+	border-radius: 5px;
+	clear:left;
+	font-size: 14px;
+}
+
+#mc_embed_signup input {
+	border: 1px solid #eee;
+	border-radius: 5px;
+}
+
+#mc_embed_signup input:focus {
+	border: 1px solid rgba(0,0,0,.3);
+}
+
+div.mce_inline_error {
+	background-color: transparent !important;
+	color: red !important;
+}
+
+input.mce_inline_error {
+	border: 1px solid red !important;
+}
+
+div.response {
+	color: #222 !important;
+}

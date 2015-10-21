@@ -1,0 +1,321 @@
+/**
+ * Theme Name: BlogCentral
+ * Theme URI: http://4bzthemes.com/theme/blogcentral/
+ * Author: 4bzthemes
+ * Author URI: http://4bzthemes.com
+ * File Description: 4bzCore Stylesheet.
+ *
+ * @since BlogCentral 1.1.2
+ *
+ * @package BlogCentral
+ * @subpackage 4bzcore.css
+-------------------------------------------------------------------------*/
+
+#header-top .list-horizontal:after,
+.skill-lbl-cont:after,
+.contact-form-cols-2:after,
+.img-float:after,
+.flickr-photos:after { 
+	clear: both;
+	content: '.';
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/* Header Top Style for Contact Info Widget */
+#header-top .list-horizontal li {
+	padding-right: 20px;
+}
+
+#header-top .fa {
+	font-size: 16px;
+}
+
+#header-top .list-horizontal .social-share {
+	float: right;
+}
+
+.footer .social-share .fa {
+	margin-bottom: 0;
+}
+
+
+/* Progressbars */
+.progressbar {
+	border-radius: 4px;
+	height: 22px;
+	position: relative;
+	-webkit-transition: 0.4s linear;
+	-moz-transition: 0.4s linear;
+	-o-transition: 0.4s linear;
+	transition: 0.4s linear;
+	-webkit-transition-property: width, background-color;
+	-moz-transition-property: width;
+	-o-transition-property: width, background-color;
+	transition-property: width, background-color;
+	width: 0;
+}
+
+.progressbar-cont {
+	background-color: #ebebeb;
+	border-radius: 4px;
+	width: 100%; 
+}
+
+.skill-lbl {
+	display: inline-block;
+	max-width: 80%;
+	overflow: hidden;
+	padding-right: 1%;
+	width: auto;
+}
+
+.skill-percent {
+	float: right;
+	max-width: 18%;
+	overflow: hidden;
+	padding-right: 1%; /* give room so the percentage will not be cut off	*/
+	text-align: right;
+	width: auto;
+}
+
+.progressbars .component {
+	margin: 0 0 12px 0;
+	padding: 0;
+}
+
+
+/* Flexslider */
+.flexslider {
+	overflow: hidden;
+	position: relative;
+	width: auto;
+}
+
+.flexslider .slides  {
+	overflow: hidden;
+}
+
+.flex-direction-nav a {
+	line-height: 48px;
+}
+
+/* Flexslider style for component items. */
+.flexslider .component {
+	margin: 0;
+}
+
+/* Flexslider Slide Templates */
+.slide-template {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
+	min-height: 500px;
+	position: relative;
+}
+
+.slide-template img {
+	width: 100%;
+	height: auto;
+}
+
+.slide-template a {
+	color: white;
+	margin-right: 12px;
+}
+
+.slide-template a:hover {
+	text-decoration: none;
+}
+
+.slide-template h1,
+.slide-template h2,
+.slide-template h3,
+.slide-template h4,
+.slide-template h5,
+.slide-template h6  {
+	color: white;
+}
+
+.slide-template h1,
+.slide-template h2 {
+	color: white;
+	margin-bottom: 12px;
+}
+
+.slide-template .component-content-wrap {
+	padding-top: 0 !important;
+}
+
+.slide-template-1 {
+	text-align: center;
+}
+
+.slide-template-2 {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align: center;
+}
+
+.slide-template-2 > div {
+	background-color: rgba(0,0,0,.4);
+	height: 500px;
+}
+
+.slide-template-3 {
+	height: 600px;
+	position: relative;
+	text-align: center;
+}
+
+.slide-template-3 .overlay {
+	height: 600px;
+	padding-top: 24px;
+}
+
+.slide-template-3 .component-media-wrap {
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+}
+
+.slide-template-3 .component-media-wrap img {
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+
+.slide-template-2 .overlay,
+.slide-template-3 .overlay {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0 4%;
+	width: 100%;
+}
+
+#precontent-widget  .slide-template-2 .overlay,
+#precontent-widget .slide-template-3 .overlay {
+	padding: 0 32px;
+}
+
+/* In slide templates, hold the buttons on the bottom of the slide */
+.component-btm {
+	font-size: 16px;
+	margin-top: 28px;
+}
+
+.component-btm .fa {
+	font-size: 17px;
+	padding-right: 5px;
+}
+
+.component-btm .button-4 {
+	margin-bottom: 6px;
+}
+
+/* Contact Info Shortcode & Widget */
+.contact-info-main ul li {
+	border-bottom: none;
+	padding: 15px 0;
+}
+
+ul.list-vertical li {
+	border-bottom: 1px dashed;
+	display: block;
+	padding: 8px 0;
+}
+
+ul.list-vertical li:last-child {
+	border-bottom: none;
+}
+
+ul.list-horizontal li {
+	display: inline;
+	line-height: 20px;
+	padding-right: 6px;
+	position: relative;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+}
+
+.contact-info-list .fa {
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+/* Contact Form Shortcode & Widget */
+.map {
+	margin-bottom: 12px;
+}
+
+.contact-form-cols-2 .contact-info-main {
+	float: left;
+	margin-right: 5%;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	width: 40%;
+}
+
+.contact-form-cols-2 .contact-info-form {
+	float: right;
+	width: 55%;
+}
+
+/* Image Text Widget */
+
+.image-text p:last-child {
+	margin: 0;
+}
+
+.img-float img {
+	float: left;
+	height: auto;
+	padding-right: 10px;
+	max-width: 40%;
+}
+
+.img-overlay {
+	position: relative;
+}
+
+.img-overlay img,
+.img-top img {
+	height: auto;
+	position: relative;
+	width: 100%;
+}
+
+.img-overlay  p {
+	color: white;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	position: absolute;
+	top: 12px;
+}
+
+.img-top img {
+	padding-bottom: 12px;
+}
+
+/* Flickr Photos Shortcode & Widget */
+.flickr-photos img {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	float: left;
+}
+
+/* Facebook Comments */
+.fb-comments,
+.fb-comments * {
+	width: 100% !important;
+}
+

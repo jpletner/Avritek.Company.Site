@@ -1,0 +1,24 @@
+//
+// Variables
+// --------------------------------------------------
+
+// Color Scheme
+$color-base: 			#E5EBE6 !default;
+$color-primary: 		#5B8D96 !default;
+$color-secondary: 		#C45A3F !default;
+$color-cta: 			#3E6B85 !default;
+$color-extra: 			#3B3D42 !default;
+
+// Light and Dark
+// -------------------------
+$dark:                 #000D11 !default;
+$light:                 #fff !default;
+
+// Typography
+// -------------------------
+$textColor:             #333 !default;
+$googleFont:            Arimo, Varela, sans-serif !default; // Can use multiple fonts with a comma. Cabin, Open Sans, etc...
+$googleFontWeight:      400 !default; // 400 or 700
+$sansFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$serifFontFamily:       Georgia, "Times New Roman", Times, serif !default;
+$baseFontFamily:        $sansFontFamily !default;

@@ -1,0 +1,65 @@
+/*
+Site Footer
+---------------------------------------------------------------------------------------------------- */
+.site-footer {
+	clear: both;
+	@include rem(margin, 8px 0);
+}
+
+.site-footer .wrap {
+	border-top: 2px solid tint($dark,30%);
+	overflow: hidden;
+	@include rem(padding, 48px 0);
+}
+
+.site-footer p {
+	@include rem(font-size, 16px);
+	text-align:center;
+}
+
+/* Footer Widgets */
+
+	.footer-widgets {
+		border-top: 1px solid tint($dark,50%);
+		clear: both;
+		line-height: 1.5;
+		overflow: hidden;
+		@include rem(padding, 32px 0 16px);
+		background-color: shade($light,5%);
+		margin-bottom: 10px;
+	
+
+		p {
+			@include rem(margin-bottom, 16px);
+		}
+
+		.widget {
+			@include rem(margin-bottom, 24px);
+		}
+
+		.widget-area ul li {
+			list-style-type: none;
+			@include rem(margin-bottom, 6px);
+			word-wrap: break-word;
+		}
+
+	}
+
+	.footer-widgets .wrap > div {
+		display: table-cell;
+	}
+
+
+/* Footer Navigation */
+
+	.site-footer #footer-nav .wrap {
+	  border: none;
+	  padding: 0;
+	}
+	.site-footer ul.menu-footer {
+	  font-size: 13px;
+	  font-weight: normal;
+	}
+	.site-footer ul.menu-footer a {
+	  padding: 0rem .75rem;
+	}

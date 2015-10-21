@@ -1,0 +1,17 @@
+<IfModule mod_setenvif.c>
+	SetEnvIf Remote_Addr ^(68\.15\.2\.162)$ WPSS_ACCESS_192B0A55B387A1FC8FE1169DC6AE0190
+</IfModule>
+
+<Files temp-comments-log-192b0a55b387a1fc8fe1169dc6ae0190.txt>
+	# Apache 2.2
+	<IfModule !mod_authz_core.c>
+		Order deny,allow
+		Deny from all
+		Allow from env=WPSS_ACCESS_192B0A55B387A1FC8FE1169DC6AE0190
+	</IfModule>
+
+	# Apache 2.4
+	<IfModule mod_authz_core.c>
+		Require env WPSS_ACCESS_192B0A55B387A1FC8FE1169DC6AE0190
+	</IfModule>
+</Files>
