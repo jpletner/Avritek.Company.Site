@@ -744,6 +744,15 @@ footer {
     vertical-align: inherit;
 }
 
+p.notice.navbar-brand.page-scroll {
+    color: #8CC541;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 0 0 0 200px;
+    padding: 15px 0 0 0;
+    text-transform: uppercase;
+}
+
 /*///////////////////////////////////MEDIA QUERIES/////////////////////////////////////////////////*/
 /*////////////////////////////////////////////////////////////////////////////////////////////////*/
 
