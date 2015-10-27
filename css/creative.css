@@ -805,9 +805,7 @@ p.notice.navbar-brand.page-scroll {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: #f05f40;
     }
-}
 
-@media(min-width:768px) {
     header {
         min-height: 100%;
     }
@@ -833,14 +831,7 @@ p.notice.navbar-brand.page-scroll {
         max-width: 80%;
         font-size: 18px;
     }
-
-@media(min-width:992px) {
-    .service-box {
-        margin: 20px auto 0;
-    }
-}
-
-@media(min-width:768px) {
+    
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 16px;
     }
@@ -849,4 +840,17 @@ p.notice.navbar-brand.page-scroll {
         font-size: 22px;
     }
 }
+
+@media(min-width:992px) {
+    .service-box {
+        margin: 20px auto 0;
+    }
+}
+
+@media(max-width:1225px) {
+    p.notice.navbar-brand.page-scroll {
+        display: none;
+    }
+}
+    
  
