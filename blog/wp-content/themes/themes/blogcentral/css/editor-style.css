@@ -1,0 +1,512 @@
+/**
+ * Theme Name: BlogCentral
+ * Theme URI: http://4bzthemes.com/theme/blogcentral/
+ * Author: 4bzthemes
+ * Author URI: http://4bzthemes.com
+ * File Description: Style the editor content like the theme.
+ *
+ * @since BlogCentral 1.0.0
+ *
+ * @package BlogCentral
+ * @subpackage editor-style.css
+-------------------------------------------------------------------------
+
+	Table of Contents
+	
+	1. Font Face
+	2. HTML + Body
+	3. Clear Floats
+	4. Headers
+	5. Wordpress Core
+	6. Default
+	7. Post Content
+	8. Drop Cap
+	
+-------------------------------------------------------------------------*/
+
+/**
+ * 1. Font Face
+ *-----------------------------------------------------------------------*/
+
+/* Import fonts */
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/Raleway/Raleway-Regular.otf') format('opentype'); 
+}
+
+/**
+ * 2. HTML + Body
+ *-----------------------------------------------------------------------*/
+html .mceContentBody  {
+	color: #777;	
+	font-family: "Raleway","Open Sans",sans-serif,Helvetica,Arial;
+	font-size: 13px;
+	font-size-adjust: none; 
+	font-stretch: normal;
+	font-weight: 500;
+	line-height: 1.8em;
+	margin: 0 32px;
+	z-index: 99999;
+}
+
+/**
+ * 3. Clear Floats
+ *-----------------------------------------------------------------------*/
+.dropcap:after {
+	clear: both;
+	content: '.';
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/**
+ * 4. Headers
+ *-----------------------------------------------------------------------*/
+h1, h1 a,
+h2, h2 a,
+h3, h3 a,
+h4, h4 a,
+h5, h5 a,
+h6, h6 a {
+	color: #222;
+	font-family: Raleway,'Open Sans',sans-serif; 
+	font-weight: normal;
+	line-height: 1.3;
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
+
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 26px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h6 {
+	font-size: 14px;
+}
+
+/**
+ * 5. Wordpress Core
+ *-----------------------------------------------------------------------*/
+.alignnone {
+    margin: 5px 20px 0px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float: right;
+    margin: 5px 0 0px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 5px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 5px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 0px 0;
+}
+
+a img.alignleft {
+	float: left;
+    margin: 5px 20px 5px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+	background: #fff;
+	max-width: 96%;
+    padding: 5px 3px;
+}
+
+.wp-caption.alignnone,
+.wp-caption.alignleft {
+    margin: 5px 20px 0px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 0px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 13px;
+    line-height: 1.4;
+    margin: 0;
+}
+
+/**
+ * 6. Default
+ *-----------------------------------------------------------------------*/
+a {
+	color: #0071d8;
+}
+
+a,
+a:hover,
+a:focus  {
+	text-decoration: none;
+}
+
+blockquote {
+	font-size: 22px;
+	height: 100%;
+	line-height: 1.5em;
+	padding: 12px;
+}
+
+blockquote,
+q {
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	quotes: none;
+}
+
+blockquote cite,
+blockquote small {
+	font-size: 14px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+blockquote em,
+blockquote i {
+	font-weight: 300;
+}
+
+blockquote strong,
+blockquote b {
+	font-weight: 400;
+}
+
+input:focus,
+textarea:focus {
+	border: 2px solid currentColor;
+	outline: 0;
+}
+
+textarea,
+input {
+	background: transparent;
+	border: 1px solid rgba(0,0,0,.05);
+	border-radius: 3px;
+	color: inherit;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.btn {
+	cursor: pointer;
+	font-size: 13px;
+	-webkit-appearance: button;
+}
+
+button[disabled],
+input[disabled] {
+	cursor: default;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+
+input[type="search"] {
+	-webkit-appearance: textfield;
+}
+
+input[type="search"]::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+
+select {
+	border: 1px solid rgba(0, 0, 0, .2);
+	border-radius: 2px;
+	background: transparent;
+	-webkit-box-shadow: 0 0 0 rgba(0,0,0,.05);
+	-moz-box-shadow: 0 0 0 rgba(0,0,0,.05);
+	box-shadow: 0 0 0 rgba(0,0,0,.05);
+	color: inherit;
+	padding: 5px;
+}
+
+select option {
+	padding: 3px 0;
+}
+
+img,
+iframe,
+object,
+video,
+embed {
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+img {
+	height: auto;
+}
+
+iframe{
+	width: 100%;
+}
+
+address {
+	margin: 0 0 24px;
+}
+
+address,
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+abbr[title] {
+	border-bottom: 1px dotted;
+}
+
+b,
+strong {
+	font-weight: bold;
+}
+
+mark {
+	background: yellow;
+	color: #000;
+	padding: 2px;
+}
+
+p {
+	margin: 0 0 0 0;
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+
+code,
+kbd,
+pre,
+samp {
+	font-family: monospace, serif;
+	font-size: 16px;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre {
+	background: #f7f7f7;
+	color: #777;
+	margin: 20px 0;
+	max-width: 100%;
+	overflow: auto;
+	padding: 20px;
+}
+
+small {
+	font-size: smaller;
+}
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	top: -0.5em;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 0 18px;
+}
+
+ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+li > ul,
+li > ol {
+	margin-left: 1em;
+}
+
+ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+nav ul,
+nav ol {
+	list-style: none;
+	list-style-image: none;
+}
+
+img {
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+	vertical-align: middle;
+}
+
+svg:not(:root) {
+	overflow: hidden;
+}
+
+figure,
+form {
+	margin: 0;
+}
+
+figure {
+	overflow: hidden;
+	position: relative;
+}
+
+fieldset {
+	border: 1px solid rgba(0,0,0,.05);
+	margin: 0 2px;
+	padding: 0.35em;
+}
+
+legend {
+	border: 0;
+	padding: 0;
+	white-space: normal;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	margin-bottom: 36px;
+	table-layout: fixed;
+	width: 100%;
+	word-wrap: break-word;
+}
+
+caption,
+th,
+td {
+	font-weight: normal;
+}
+
+tfoot tr td {
+	padding: 8px 2%;
+}
+
+caption {}
+
+th {
+	border: 1px solid;
+	font-weight: bold;
+	padding: 8px 2%;
+	text-transform: uppercase;
+}
+
+td {
+	border: 1px solid;
+	padding: 8px 2%;
+}
+
+del {
+	color: #333;
+}
+
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+hr {
+	height: 1px;
+	margin: 0 0 24px;
+}
+
+/**
+ * 7. Post Content
+ *-----------------------------------------------------------------------*/
+/* Quotation */
+.post-quote {
+	background-color: rgba(0,0,0,.05);
+	border-left: 5px solid #222;
+	font-size: 15px;
+	font-weight: normal;
+	margin: 24px 0;
+	padding: 12px;
+}
+
+/**
+ * 8. Drop Cap
+ *-----------------------------------------------------------------------*/
+.dropcap {
+	text-align: justify;
+}
+
+.dropcap:first-letter {
+	float: left;
+	font-family: baskerville,Raleway,"Open Sans",sans-serif;
+	font-size: 96px;
+	line-height: 1;
+	margin-bottom: 12px;
+	margin-right: 8px;
+	margin-top: 12px;
+	text-align: center;
+}

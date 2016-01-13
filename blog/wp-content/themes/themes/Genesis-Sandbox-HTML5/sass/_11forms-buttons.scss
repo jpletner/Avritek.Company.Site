@@ -1,0 +1,32 @@
+input,
+select,
+textarea {
+	background-color: $light;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	box-shadow: 0 0 5px #ddd inset;
+	@include rem(padding, 16px);
+	width: 100%;
+	color: shade($light,50%);
+}
+
+button,
+input[type="button"],
+input[type="submit"],
+.btn {
+	background-color: tint($dark,30%);
+	border: none;
+	box-shadow: none;
+	cursor: pointer;
+	@include rem(padding, 16px 24px);
+	width: auto;
+	color: #fff;
+	font-size:inherit;
+}
+
+button:hover,
+input:hover[type="button"],
+input:hover[type="submit"],
+.btn:hover {
+	background-color: shade($color-cta, 30%);
+}

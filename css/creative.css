@@ -58,7 +58,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; 
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     margin-bottom: 15px;
 }
 
@@ -120,7 +120,7 @@ section {
 }
 
 .service p {
-	font-size: 1.1em; 
+	font-size: 1.1em;
 	text-align:left;
 	font-family:Arial;
     line-height: 1em;
@@ -138,9 +138,25 @@ section {
     color: #6F6F6F;
     font-size: 13px;
     font-weight: 550;
-    padding-left: 1em; 
+    padding-left: 1em;
     text-indent: -.7em;
     text-align: center
+}
+
+#service-container-testimonials ul{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+
+#service-container-testimonials li{
+    font-family:Arial;
+    color: #6F6F6F;
+    font-size: 15px;
+    font-weight: 575;
+    padding-left: 1em;
+    text-indent: -.7em;
+    text-align: center;
 }
 
 div .section-heading{
@@ -207,8 +223,8 @@ border: 3px solid #e3e3e3;
 }
 
 .navbar-brand>img {
-    max-width:200px; 
-    margin-top: -16px; 
+    max-width:200px;
+    margin-top: -16px;
 }
 
 header {
@@ -414,7 +430,7 @@ header .header-content .header-content-inner p {
 }
 
 #mc_embed_signup {
-    margin-top: 5%; 
+    margin-top: 5%;
 }
 
 #services {
@@ -423,7 +439,7 @@ header .header-content .header-content-inner p {
 
 .service-heading{
     margin-top: 0;
-    color:#f05f40;	
+    color:#f05f40;
 }
 
 .service-box {
@@ -651,7 +667,7 @@ body {
 }
 
 #buy-dialog{
- margin: 80px auto 0 auto ; 
+ margin: 80px auto 0 auto ;
  width:60%;
  height:100%;
 }
@@ -722,7 +738,7 @@ footer {
 .pdfbutton {
     margin-bottom: 5%;
 }
-    
+
 #submit {
     margin-top: 1.5%;
 }
@@ -831,7 +847,7 @@ p.notice.navbar-brand.page-scroll {
         max-width: 80%;
         font-size: 18px;
     }
-    
+
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 16px;
     }
@@ -852,5 +868,3 @@ p.notice.navbar-brand.page-scroll {
         display: none;
     }
 }
-    
- 
