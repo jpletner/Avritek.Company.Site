@@ -1,0 +1,20 @@
+--- 
+__version: '2.1'
+avr-recycling.com: 
+  account_count: 1
+  accounts: 
+    epletner: 
+      disk_mtime: '1328556355'
+      diskquota: 0
+      diskused: 245549985
+  disk_mtime: '1328558941'
+  passwd_mtime: '1444318584'
+  quota_mtime: '1444318584'
+avrrecycling.avr-recycling.com: 
+  account_count: 0
+  accounts: {}
+
+avrrecycling.com: 
+  account_count: 0
+  accounts: {}
+

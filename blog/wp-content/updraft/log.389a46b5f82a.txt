@@ -1,0 +1,318 @@
+2711.609 (1) Opened log file at time: Thu, 28 Apr 2016 20:32:54 +0000 on http://blog.avritek.com
+2711.612 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 36.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2711.777 (1) Free space on disk containing Updraft's temporary directory: 223335.9 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+2711.786 (1) Backup run: resumption=1, nonce=389a46b5f82a, begun at=1461872862 (2712s ago), job type=backup, previous check-in=27s
+2711.789 (1) Long time past since expected resumption time: approx expected=1461873190.3, now=1461875574.5, diff=2384.2
+2711.792 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+2711.794 (1) Scheduling a resumption (2) after 300 seconds (1461875874) in case this run gets aborted
+2711.800 (1) Checking if we have a zip executable available
+2711.802 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+2711.805 (1) Creation of backups of directories: already finished
+2711.807 (1) Saving backup status to database (elements: 8)
+2711.813 (1) Database dump (WordPress DB): Creation was completed already
+2711.816 (1) Saving backup history
+2711.822 (1) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2711.824 (1) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2711.827 (1) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2711.830 (1) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+2711.832 (1) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+2711.837 (1) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+2711.852 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+2711.857 (1) Cloud backup selection (1/1): googledrive (last)
+2711.860 (1) Beginning dispatch of backup to remote (googledrive)
+2711.874 (1) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+2712.239 (1) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+2712.246 (1) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+2712.252 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2712.255 (1) Number of backup sets in history: 2
+2712.257 (1) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+2712.260 (1) 1461872862: this backup set remains non-empty (1/1); will retain in history
+2712.262 (1) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+2712.264 (1) 1461267782: this backup set remains non-empty (1/1); will retain in history
+2712.266 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2712.272 (1) Resume backup (389a46b5f82a, 1): finish run
+2712.277 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2712.283 (1) No email will/can be sent - the user has not configured an email address.
+2712.285 (1) The backup has not finished; a resumption is scheduled
+6202.777 (2) Opened log file at time: Thu, 28 Apr 2016 21:31:05 +0000 on http://blog.avritek.com
+6202.810 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+6202.939 (2) Free space on disk containing Updraft's temporary directory: 223305.1 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+6202.948 (2) Backup run: resumption=2, nonce=389a46b5f82a, begun at=1461872862 (6203s ago), job type=backup
+6202.951 (2) Long time past since expected resumption time: approx expected=1461875873.7, now=1461879065.7, diff=3192
+6202.953 (2) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+6202.956 (2) Scheduling a resumption (3) after 300 seconds (1461879365) in case this run gets aborted
+6202.961 (2) Checking if we have a zip executable available
+6202.963 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+6202.965 (2) Creation of backups of directories: already finished
+6202.967 (2) Saving backup status to database (elements: 8)
+6202.973 (2) Database dump (WordPress DB): Creation was completed already
+6202.975 (2) Saving backup history
+6202.981 (2) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+6202.983 (2) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+6202.985 (2) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+6202.987 (2) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+6202.990 (2) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+6202.994 (2) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+6203.007 (2) Requesting upload of the files that have not yet been successfully uploaded (4)
+6203.012 (2) Cloud backup selection (1/1): googledrive (last)
+6203.014 (2) Beginning dispatch of backup to remote (googledrive)
+6203.091 (2) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+6203.458 (2) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+6203.465 (2) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+6203.471 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+6203.473 (2) Number of backup sets in history: 2
+6203.475 (2) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+6203.477 (2) 1461872862: this backup set remains non-empty (1/1); will retain in history
+6203.479 (2) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+6203.481 (2) 1461267782: this backup set remains non-empty (1/1); will retain in history
+6203.483 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+6203.489 (2) Resume backup (389a46b5f82a, 2): finish run
+6203.495 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+6203.500 (2) No email will/can be sent - the user has not configured an email address.
+6203.502 (2) The backup has not finished; a resumption is scheduled
+7979.234 (3) Opened log file at time: Thu, 28 Apr 2016 22:00:42 +0000 on http://blog.avritek.com
+7979.236 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+7979.367 (3) Free space on disk containing Updraft's temporary directory: 223297.6 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+7979.377 (3) Backup run: resumption=3, nonce=389a46b5f82a, begun at=1461872862 (7980s ago), job type=backup
+7979.379 (3) Long time past since expected resumption time: approx expected=1461879364.7, now=1461880842.1, diff=1477.4
+7979.382 (3) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+7979.385 (3) Scheduling a resumption (4) after 300 seconds (1461881142) in case this run gets aborted
+7979.392 (3) Checking if we have a zip executable available
+7979.394 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+7979.396 (3) Creation of backups of directories: already finished
+7979.398 (3) Saving backup status to database (elements: 8)
+7979.404 (3) Database dump (WordPress DB): Creation was completed already
+7979.407 (3) Saving backup history
+7979.413 (3) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+7979.415 (3) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+7979.417 (3) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+7979.419 (3) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+7979.422 (3) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+7979.426 (3) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+7979.440 (3) Requesting upload of the files that have not yet been successfully uploaded (4)
+7979.446 (3) Cloud backup selection (1/1): googledrive (last)
+7979.448 (3) Beginning dispatch of backup to remote (googledrive)
+7979.462 (3) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+7979.853 (3) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+7979.857 (3) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+7979.864 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+7979.868 (3) Number of backup sets in history: 2
+7979.870 (3) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+7979.873 (3) 1461872862: this backup set remains non-empty (1/1); will retain in history
+7979.875 (3) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+7979.878 (3) 1461267782: this backup set remains non-empty (1/1); will retain in history
+7979.879 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+7979.885 (3) Resume backup (389a46b5f82a, 3): finish run
+7979.889 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+7979.895 (3) No email will/can be sent - the user has not configured an email address.
+7979.897 (3) The backup has not finished; a resumption is scheduled
+12980.694 (4) Opened log file at time: Thu, 28 Apr 2016 23:24:03 +0000 on http://blog.avritek.com
+12980.697 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+12980.825 (4) Free space on disk containing Updraft's temporary directory: 223266.8 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+12980.833 (4) Backup run: resumption=4, nonce=389a46b5f82a, begun at=1461872862 (12981s ago), job type=backup
+12980.836 (4) Long time past since expected resumption time: approx expected=1461881141.4, now=1461885843.6, diff=4702.2
+12980.838 (4) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+12980.841 (4) Scheduling a resumption (5) after 300 seconds (1461886143) in case this run gets aborted
+12980.846 (4) Checking if we have a zip executable available
+12980.848 (4) Zip engine: found/will use a binary zip: /usr/bin/zip
+12980.851 (4) Creation of backups of directories: already finished
+12980.853 (4) Saving backup status to database (elements: 8)
+12980.857 (4) Database dump (WordPress DB): Creation was completed already
+12980.860 (4) Saving backup history
+12980.866 (4) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+12980.868 (4) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+12980.870 (4) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+12980.872 (4) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+12980.874 (4) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+12980.879 (4) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+12980.894 (4) Requesting upload of the files that have not yet been successfully uploaded (4)
+12980.899 (4) Cloud backup selection (1/1): googledrive (last)
+12980.902 (4) Beginning dispatch of backup to remote (googledrive)
+12980.969 (4) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+12981.336 (4) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+12981.340 (4) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+12981.348 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+12981.352 (4) Number of backup sets in history: 2
+12981.355 (4) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+12981.356 (4) 1461872862: this backup set remains non-empty (1/1); will retain in history
+12981.358 (4) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+12981.362 (4) 1461267782: this backup set remains non-empty (1/1); will retain in history
+12981.364 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+12981.369 (4) Resume backup (389a46b5f82a, 4): finish run
+12981.374 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+12981.379 (4) No email will/can be sent - the user has not configured an email address.
+12981.382 (4) The backup has not finished; a resumption is scheduled
+17160.386 (5) Opened log file at time: Fri, 29 Apr 2016 00:33:43 +0000 on http://blog.avritek.com
+17160.389 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+17160.523 (5) Free space on disk containing Updraft's temporary directory: 223213.3 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+17160.533 (5) Backup run: resumption=5, nonce=389a46b5f82a, begun at=1461872862 (17161s ago), job type=backup
+17160.536 (5) Long time past since expected resumption time: approx expected=1461886142.5, now=1461890023.3, diff=3880.8
+17160.538 (5) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+17160.541 (5) Scheduling a resumption (6) after 300 seconds (1461890323) in case this run gets aborted
+17160.546 (5) Checking if we have a zip executable available
+17160.548 (5) Zip engine: found/will use a binary zip: /usr/bin/zip
+17160.551 (5) Creation of backups of directories: already finished
+17160.553 (5) Saving backup status to database (elements: 8)
+17160.558 (5) Database dump (WordPress DB): Creation was completed already
+17160.560 (5) Saving backup history
+17160.565 (5) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+17160.567 (5) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+17160.569 (5) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+17160.572 (5) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+17160.574 (5) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+17160.579 (5) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+17160.593 (5) Requesting upload of the files that have not yet been successfully uploaded (4)
+17160.597 (5) Cloud backup selection (1/1): googledrive (last)
+17160.600 (5) Beginning dispatch of backup to remote (googledrive)
+17160.647 (5) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+17161.018 (5) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+17161.023 (5) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+17161.030 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+17161.033 (5) Number of backup sets in history: 2
+17161.036 (5) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+17161.038 (5) 1461872862: this backup set remains non-empty (1/1); will retain in history
+17161.041 (5) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+17161.043 (5) 1461267782: this backup set remains non-empty (1/1); will retain in history
+17161.045 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+17161.050 (5) Resume backup (389a46b5f82a, 5): finish run
+17161.055 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+17161.059 (5) No email will/can be sent - the user has not configured an email address.
+17161.062 (5) The backup has not finished; a resumption is scheduled
+21727.362 (6) Opened log file at time: Fri, 29 Apr 2016 01:49:50 +0000 on http://blog.avritek.com
+21727.366 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+21727.504 (6) Free space on disk containing Updraft's temporary directory: 223192.4 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+21727.513 (6) Backup run: resumption=6, nonce=389a46b5f82a, begun at=1461872862 (21728s ago), job type=backup
+21727.516 (6) Long time past since expected resumption time: approx expected=1461890322.3, now=1461894590.2, diff=4267.9
+21727.520 (6) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+21727.525 (6) Scheduling a resumption (7) after 300 seconds (1461894890) in case this run gets aborted
+21727.531 (6) Checking if we have a zip executable available
+21727.534 (6) Zip engine: found/will use a binary zip: /usr/bin/zip
+21727.536 (6) Creation of backups of directories: already finished
+21727.538 (6) Saving backup status to database (elements: 8)
+21727.544 (6) Database dump (WordPress DB): Creation was completed already
+21727.547 (6) Saving backup history
+21727.553 (6) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+21727.556 (6) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+21727.559 (6) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+21727.561 (6) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+21727.564 (6) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+21727.569 (6) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+21727.585 (6) Requesting upload of the files that have not yet been successfully uploaded (4)
+21727.591 (6) Cloud backup selection (1/1): googledrive (last)
+21727.593 (6) Beginning dispatch of backup to remote (googledrive)
+21727.655 (6) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+21728.023 (6) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+21728.029 (6) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+21728.036 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+21728.038 (6) Number of backup sets in history: 2
+21728.041 (6) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+21728.043 (6) 1461872862: this backup set remains non-empty (1/1); will retain in history
+21728.046 (6) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+21728.048 (6) 1461267782: this backup set remains non-empty (1/1); will retain in history
+21728.052 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+21728.057 (6) Resume backup (389a46b5f82a, 6): finish run
+21728.062 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+21728.067 (6) No email will/can be sent - the user has not configured an email address.
+21728.069 (6) The backup has not finished; a resumption is scheduled
+22287.247 (7) Opened log file at time: Fri, 29 Apr 2016 01:59:10 +0000 on http://blog.avritek.com
+22287.249 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+22287.381 (7) Free space on disk containing Updraft's temporary directory: 223187.8 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+22287.391 (7) Backup run: resumption=7, nonce=389a46b5f82a, begun at=1461872862 (22288s ago), job type=backup
+22287.393 (7) Scheduling a resumption (8) after 300 seconds (1461895450) in case this run gets aborted
+22287.398 (7) Checking if we have a zip executable available
+22287.401 (7) Zip engine: found/will use a binary zip: /usr/bin/zip
+22287.403 (7) Creation of backups of directories: already finished
+22287.405 (7) Saving backup status to database (elements: 8)
+22287.411 (7) Database dump (WordPress DB): Creation was completed already
+22287.413 (7) Saving backup history
+22287.418 (7) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+22287.421 (7) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+22287.424 (7) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+22287.426 (7) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+22287.428 (7) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+22287.434 (7) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+22287.448 (7) Requesting upload of the files that have not yet been successfully uploaded (4)
+22287.453 (7) Cloud backup selection (1/1): googledrive (last)
+22287.456 (7) Beginning dispatch of backup to remote (googledrive)
+22287.479 (7) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+22287.850 (7) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+22287.856 (7) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+22287.862 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+22287.865 (7) Number of backup sets in history: 2
+22287.867 (7) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+22287.869 (7) 1461872862: this backup set remains non-empty (1/1); will retain in history
+22287.872 (7) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+22287.875 (7) 1461267782: this backup set remains non-empty (1/1); will retain in history
+22287.877 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+22287.882 (7) Resume backup (389a46b5f82a, 7): finish run
+22287.887 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+22287.893 (7) No email will/can be sent - the user has not configured an email address.
+22287.895 (7) The backup has not finished; a resumption is scheduled
+24691.508 (8) Opened log file at time: Fri, 29 Apr 2016 02:39:14 +0000 on http://blog.avritek.com
+24691.511 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+24691.630 (8) Free space on disk containing Updraft's temporary directory: 223170.5 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+24691.642 (8) Backup run: resumption=8, nonce=389a46b5f82a, begun at=1461872862 (24692s ago), job type=backup
+24691.644 (8) Long time past since expected resumption time: approx expected=1461895449.3, now=1461897554.4, diff=2105.1
+24691.647 (8) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+24691.649 (8) Scheduling a resumption (9) after 300 seconds (1461897854) in case this run gets aborted
+24691.655 (8) Checking if we have a zip executable available
+24691.658 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+24691.661 (8) Creation of backups of directories: already finished
+24691.663 (8) Saving backup status to database (elements: 8)
+24691.667 (8) Database dump (WordPress DB): Creation was completed already
+24691.670 (8) Saving backup history
+24691.675 (8) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+24691.677 (8) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+24691.679 (8) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+24691.682 (8) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+24691.684 (8) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+24691.689 (8) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+24691.702 (8) Requesting upload of the files that have not yet been successfully uploaded (4)
+24691.706 (8) Cloud backup selection (1/1): googledrive (last)
+24691.708 (8) Beginning dispatch of backup to remote (googledrive)
+24691.728 (8) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+24692.093 (8) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+24692.100 (8) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+24692.106 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+24692.109 (8) Number of backup sets in history: 2
+24692.111 (8) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+24692.113 (8) 1461872862: this backup set remains non-empty (1/1); will retain in history
+24692.115 (8) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+24692.117 (8) 1461267782: this backup set remains non-empty (1/1); will retain in history
+24692.119 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+24692.124 (8) Resume backup (389a46b5f82a, 8): finish run
+24692.129 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+24692.135 (8) No email will/can be sent - the user has not configured an email address.
+24692.138 (8) The backup has not finished; a resumption is scheduled
+25317.237 (9) Opened log file at time: Fri, 29 Apr 2016 02:49:40 +0000 on http://blog.avritek.com
+25317.239 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.12.57-157.ELK6.x86_64 #1 SMP Thu Mar 31 18:18:13 CDT 2016 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36M | 37.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+25317.382 (9) Free space on disk containing Updraft's temporary directory: 223162.4 Mb / Free disk space in account: 999060.7 Mb (0.1 % used)
+25317.392 (9) Backup run: resumption=9, nonce=389a46b5f82a, begun at=1461872862 (25318s ago), job type=backup
+25317.394 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+25317.396 (9) Creation of backups of directories: already finished
+25317.398 (9) Saving backup status to database (elements: 8)
+25317.404 (9) Database dump (WordPress DB): Creation was completed already
+25317.406 (9) Saving backup history
+25317.411 (9) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+25317.413 (9) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+25317.415 (9) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+25317.417 (9) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_e0cc101b882a-others.zip: others: This file has not yet been successfully uploaded: will queue
+25317.419 (9) backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz)
+25317.424 (9) Recording as successfully uploaded: backup_2016-04-28-1947_Avritek_Blog_Secure_Technology_389a46b5f82a-db.gz (01e8c795649a2df413b9edbf80ea5fab)
+25317.435 (9) Requesting upload of the files that have not yet been successfully uploaded (4)
+25317.439 (9) Cloud backup selection (1/1): googledrive (last)
+25317.442 (9) Beginning dispatch of backup to remote (googledrive)
+25317.455 (9) Google Drive: requesting access token: client_id=564109602855-9dla5518qa6tmeip7g7m6gmqbke96d9g.apps.googleusercontent.com
+25317.820 (9) Google Drive error when requesting access token: response does not contain access_token. Response: {  "error" : "invalid_grant"}
+25317.826 (9) ERROR: Have not yet obtained an access token from Google (has the user authorised?)
+25317.832 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+25317.835 (9) Number of backup sets in history: 2
+25317.837 (9) Examining backup set with datestamp: 1461872862 (Apr 28 2016 19:47:42)
+25317.839 (9) 1461872862: this backup set remains non-empty (1/1); will retain in history
+25317.842 (9) Examining backup set with datestamp: 1461267782 (Apr 21 2016 19:43:02)
+25317.844 (9) 1461267782: this backup set remains non-empty (1/1); will retain in history
+25317.846 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+25317.852 (9) Resume backup (389a46b5f82a, 9): finish run
+25317.857 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+25317.862 (9) No email will/can be sent - the user has not configured an email address.
+25317.865 (9) The backup attempt has finished, apparently unsuccessfully

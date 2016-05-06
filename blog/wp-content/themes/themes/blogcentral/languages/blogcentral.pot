@@ -1,0 +1,2009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlogCentral\n"
+"POT-Creation-Date: 2015-08-10 09:18-0500\n"
+"PO-Revision-Date: 2015-08-10 09:18-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:33 404.php:44 functions.php:4786
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:48
+msgid "Your request was not successful. Maybe a search will help?"
+msgstr ""
+
+#: archive.php:55
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:57
+msgid "F Y"
+msgstr ""
+
+#: archive.php:57
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:59
+msgid "Y"
+msgstr ""
+
+#: archive.php:59
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:61
+msgid "Archives"
+msgstr ""
+
+#: author-bio.php:104
+#, php-format
+msgid "All posts by %s "
+msgstr ""
+
+#: author-bio.php:110
+msgid "Website:"
+msgstr ""
+
+#: author-bio.php:118
+msgid "Email:"
+msgstr ""
+
+#: author.php:51
+msgid "About the Author"
+msgstr ""
+
+#: author.php:80
+#, php-format
+msgid " Posts By %s"
+msgstr ""
+
+#: category.php:51
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: functions.php:472 functions.php:573 functions.php:679 functions.php:3242
+#: page-template-about-me.php:32
+msgid "hat back"
+msgstr ""
+
+#: functions.php:523 functions.php:656 functions.php:761 functions.php:890
+#, php-format
+msgid "Copyright &#169; 2015 %s All Rights Reserved"
+msgstr ""
+
+#: functions.php:581 functions.php:686 functions.php:792
+msgid "default user image"
+msgstr ""
+
+#: functions.php:585 functions.php:690 functions.php:801
+msgid "logo"
+msgstr ""
+
+#: functions.php:785
+msgid "hatback"
+msgstr ""
+
+#: functions.php:795
+msgid "Cincinnati OH"
+msgstr ""
+
+#: functions.php:918
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:969
+msgid "Header Top Widget"
+msgstr ""
+
+#: functions.php:971
+msgid ""
+"Widgets in this area will be shown in the header top area. Ideal for contact "
+"information."
+msgstr ""
+
+#: functions.php:979
+msgid "Header Widget"
+msgstr ""
+
+#: functions.php:981
+#, php-format
+msgid ""
+"Widgets in this area will be shown in the header area to the left of the "
+"logo. Ideal for advertisement banner or search form. The size is 77% by 50px."
+msgstr ""
+
+#: functions.php:989
+msgid "PreContent Widget"
+msgstr ""
+
+#: functions.php:991
+msgid ""
+"Widgets in this area will be shown in the main content, above the posts "
+"and \n"
+"\t\t\t\t\t\t\t\t\tsidebar. Ideal for a slideshow. Is full width with no left "
+"and right spacing."
+msgstr ""
+
+#: functions.php:1001
+msgid "PreContent Widget About Me"
+msgstr ""
+
+#: functions.php:1003
+msgid ""
+"Widgets in this area will be shown on the about me page in the main "
+"content, \n"
+"\t\t\t\t\t\t\t\t\tabove the posts and sidebar. It is ideal for a slideshow. "
+"Is full width with no\n"
+"\t\t\t\t\t\t\t\t\tleft and right spacing."
+msgstr ""
+
+#: functions.php:1012
+msgid "Preposts Left Widget"
+msgstr ""
+
+#: functions.php:1014
+msgid ""
+"Widgets in this area will be shown in the main content area of the blog \n"
+"\t\t\t\t\t\t\t\t\tlanding page on the left,above the main posts. It is "
+"recommended that if you \n"
+"\t\t\t\t\t\t\t\t\tplace widgets in this area, do so in the preposts right "
+"widget area also. If no\n"
+"\t\t\t\t\t\t\t\t\twidgets are dragged into the area, will not show anything."
+msgstr ""
+
+#: functions.php:1025
+msgid "PrePosts Right Widget"
+msgstr ""
+
+#: functions.php:1027
+msgid ""
+"Widgets in this area will be shown in the main content area of the blog \n"
+"\t\t\t\t\t\t\t\t\tlanding page on the right,above the main posts. It is "
+"recommended that if you \n"
+"\t\t\t\t\t\t\t\t\tplace widgets in this area, do so in the preposts left "
+"widget area also. If no\n"
+"\t\t\t\t\t\t\t\t\twidgets are dragged into the area, will not show anything."
+msgstr ""
+
+#: functions.php:1038
+msgid "Main Widget"
+msgstr ""
+
+#: functions.php:1040
+msgid ""
+"This area is where the main wordpress loop is shown. You can override this \n"
+"\t\t\t\t\t\t\t\t\tbehavior by dragging widgets to this area."
+msgstr ""
+
+#: functions.php:1049
+msgid "Post Posts Widget"
+msgstr ""
+
+#: functions.php:1051
+msgid ""
+"Widgets in this area will be shown in the main content, below the posts "
+"and \n"
+"\t\t\t\t\t\t\t\t\tsidebar. It is ideal for advertisement or a call to action "
+"box. Is full width,\n"
+"\t\t\t\t\t\t\t\t\twith no side paddings."
+msgstr ""
+
+#: functions.php:1061
+msgid "Sidebar Right"
+msgstr ""
+
+#: functions.php:1063
+msgid "Widgets in this area will be shown in the right sidebar"
+msgstr ""
+
+#: functions.php:1071
+msgid "Single Post After Widget"
+msgstr ""
+
+#: functions.php:1073
+msgid ""
+"Widgets in this area will be shown on single post pages, immediately below "
+"the author bio. It is ideal for related posts. "
+msgstr ""
+
+#: functions.php:1081
+msgid "Footer Left Widget"
+msgstr ""
+
+#: functions.php:1083
+msgid "Widgets in this area will be shown in the left footer column"
+msgstr ""
+
+#: functions.php:1091
+msgid "Footer Middle Widget"
+msgstr ""
+
+#: functions.php:1093
+msgid "Widgets in this area will be shown in the center footer column"
+msgstr ""
+
+#: functions.php:1101
+msgid "Footer Right Widget"
+msgstr ""
+
+#: functions.php:1103
+msgid "Widgets in this area will be shown in the right footer column"
+msgstr ""
+
+#: functions.php:1111
+msgid "Footer Bottom Left Widget"
+msgstr ""
+
+#: functions.php:1113
+msgid "Widgets in this area will be shown in the bottom left footer column"
+msgstr ""
+
+#: functions.php:1122
+msgid "Footer Bottom Right Widget"
+msgstr ""
+
+#: functions.php:1124
+msgid "Widgets in this area will be shown in the bottom right footer column"
+msgstr ""
+
+#: functions.php:1277
+msgid "close"
+msgstr ""
+
+#: functions.php:1278 includes/4bzcore.php:499 includes/4bzcore.php:573
+msgid "Delete"
+msgstr ""
+
+#: functions.php:1279
+msgid "name"
+msgstr ""
+
+#: functions.php:1280
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:1281 includes/4bzcore.php:513
+msgid "Enter the html for the slide"
+msgstr ""
+
+#: functions.php:1282 includes/4bzcore.php:502
+msgid ""
+"Slide Template- choose a template to use for your slide, or enter custom "
+"html below."
+msgstr ""
+
+#: functions.php:1283 includes/4bzcore.php:506
+msgid "template 1"
+msgstr ""
+
+#: functions.php:1284 includes/4bzcore.php:508
+msgid "template 2"
+msgstr ""
+
+#: functions.php:1285 includes/4bzcore.php:510
+msgid "template 3"
+msgstr ""
+
+#: functions.php:1306 functions.php:1307 functions.php:1866
+msgid "BlogCentral"
+msgstr ""
+
+#: functions.php:1334 functions.php:1892 functions.php:2569
+#: includes/4bzcore.php:144 includes/4bzcore.php:200 includes/4bzcore.php:692
+msgid "General"
+msgstr ""
+
+#: functions.php:1339
+msgid "General Background, Color, & Sizes"
+msgstr ""
+
+#: functions.php:1344 functions.php:1896
+msgid "Typography"
+msgstr ""
+
+#: functions.php:1349 functions.php:1898
+msgid "Social Apps"
+msgstr ""
+
+#: functions.php:1354 functions.php:1900 functions.php:2351
+#: includes/4bzcore.php:205 includes/4bzcore.php:327
+msgid "Contact Information"
+msgstr ""
+
+#: functions.php:1359 functions.php:1902
+msgid "Header"
+msgstr ""
+
+#: functions.php:1364 functions.php:1904
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: functions.php:1369 functions.php:1906
+msgid "Page Header"
+msgstr ""
+
+#: functions.php:1374 functions.php:1908
+msgid "Posts"
+msgstr ""
+
+#: functions.php:1390
+msgid ""
+"First we would like to say Thank You for downloading the BlogCentral Theme. "
+"The following provides some information about using the theme options page. "
+"For more detailed \n"
+"\t\t\tinformation, consult the readme.txt file and the theme's online "
+"documentation at "
+msgstr ""
+
+#: functions.php:1391
+msgid "Documentation on "
+msgstr ""
+
+#: functions.php:1392 functions.php:1924
+msgid "Demos"
+msgstr ""
+
+#: functions.php:1393
+msgid ""
+"BlogCentral provides 3 predefined demos to choose. The demos define values "
+"for some of the theme options. Choosing a demo should be the first step, "
+"since it will delete all of your saved options. When you select the demo you "
+"would like to use, immediately click on the \"Change Demo\" button, this "
+"will save a copy of the demo options as the theme options. You can further "
+"customize the options, if desired, by using the theme options page. The demo "
+"settings, just like the theme options, if applicable, will apply to all "
+"pages."
+msgstr ""
+
+#: functions.php:1394
+msgid "Making your site look like the demos"
+msgstr ""
+
+#: functions.php:1395
+msgid ""
+"Your site will almost look exactly like the demos except for maybe, your "
+"logo, posts, and widgets. You can download an xml file for the demo content, "
+"which will include the posts. For the widgets, you will have to download the "
+"widgets.json file, and have the Widget Import/Export plugin installed and "
+"activated. For more detailed information <a href=\"http://4bzthemes.com/"
+"support/articles/blogcentral-installing-the-demo-content/\"> read this "
+"tutorial.</a>"
+msgstr ""
+
+#: functions.php:1396
+msgid "Front End Demo Pages"
+msgstr ""
+
+#: functions.php:1397
+msgid ""
+"BlogCentral provides page templates used to demonstrate the demos. You have "
+"the choice to use them or not, but if you do, please read the following. "
+"Whenever a user chooses a demo to view on the front end, its options will be "
+"the active theme options, until the home page, or another demo is chosen on "
+"the front end, for example from the main navigation menu. If you change the "
+"theme options on the admin side, and do not see these changes on the front "
+"end, you will have to navigate to the home page, effectively changing the "
+"options from the previously viewed demo, to the options saved from the theme "
+"options page."
+msgstr ""
+
+#: functions.php:1412
+msgid "4bzCore Plugin"
+msgstr ""
+
+#: functions.php:1413 functions.php:2287
+msgid ""
+"This theme uses the 4bzCore plugin to display contact information and/or a "
+"contact form. It is available for download from the WordPress.org "
+"repository. <a href=\"http://wordpress.org/plugins/4bzcore\">Download Now</a>"
+msgstr ""
+
+#: functions.php:1414
+msgid "Icons"
+msgstr ""
+
+#: functions.php:1415
+msgid "To choose an icon, click inside the input textbox."
+msgstr ""
+
+#: functions.php:1416 includes/4bzcore.php:319
+msgid "Contact Form"
+msgstr ""
+
+#: functions.php:1417
+msgid ""
+"This theme is compatible with any plugin that displays contact forms via a "
+"shortcode. If you would like to display a contact form, enter the shortcode "
+"generated by the plugin in the textarea."
+msgstr ""
+
+#: functions.php:1432
+msgid ""
+"You can customize the font family, weight and style, and subsets for the "
+"body text, headers, and menu items. Choose from traditional system fonts and "
+"google fonts."
+msgstr ""
+
+#: functions.php:1448
+msgid "Third Party APIs"
+msgstr ""
+
+#: functions.php:1449
+msgid ""
+"If you would like to use google maps and fonts, you must provide your API "
+"key. Visit their website to obtain this information."
+msgstr ""
+
+#: functions.php:1464
+msgid ""
+"The \"General Background, Colors, & Sizes\" tab is where you can choose a "
+"color scheme, customize the color for the body text, links, and headers, the "
+"background color for the main content, and the size of the header tags."
+msgstr ""
+
+#: functions.php:1465
+msgid "Choosing Colors"
+msgstr ""
+
+#: functions.php:1466
+msgid ""
+"BlogCentral uses the native Wordpress color picker to choose a color. You "
+"can also enter the color manually. Examples: #ffffff, rgb(255,255,255) or "
+"white."
+msgstr ""
+
+#: functions.php:1467
+msgid "Background Images"
+msgstr ""
+
+#: functions.php:1468
+msgid ""
+"To choose a background image or color for the body, navigate to \"Appearance-"
+">Background\" on the admin sidebar"
+msgstr ""
+
+#: functions.php:1469
+msgid "Font sizes, padding, margins, widths and heights."
+msgstr ""
+
+#: functions.php:1469
+msgid ""
+"Enter font sizes, padding, margins, widths, and heights with unit of "
+"measurement, eg. 12px, 1.2rem etc. For dimensions of an image, do not "
+"include a unit of measurement."
+msgstr ""
+
+#: functions.php:1484
+msgid ""
+"The \"Header\" tab is where you customize the appearance of the header. The "
+"header is the top area of the page that holds the logo, header widget, and "
+"the main navigation menu. The favicon option is also under this tab."
+msgstr ""
+
+#: functions.php:1485
+msgid "Contact Information Display"
+msgstr ""
+
+#: functions.php:1486
+msgid ""
+"BlogCentral provides options to display the contact information for a "
+"company or an individual. If you would like to display the contact "
+"information, the 4bzCore plugin must be installed and activated. If the "
+"option for a user id is blank, then the contact information entered on the "
+"contact information tab on the theme's options page will be used, otherwise "
+"the contact information for the user of the provided user id will be "
+"displayed. For social media contacts, enter the full url, ie. http://www."
+"facebook.com/username."
+msgstr ""
+
+#: functions.php:1501
+msgid ""
+"The \"Main Navigation Menu\" tab is where you customize the appearance of "
+"the main navigation menu and its submenus. You can customize the color for "
+"the background, links, and active links."
+msgstr ""
+
+#: functions.php:1516
+msgid ""
+"The \"Page Header\" tab is where you customize the appearance of the page "
+"header. The page header sits immediately below the header. This area is "
+"widgetized and is also called the precontent widget. If no widgets are "
+"active, then it serves as the page header and a box with an image and an "
+"overlay that shows what page is being viewed, the blog description, today's "
+"date, and the breadcrumbs will be shown, if enabled."
+msgstr ""
+
+#: functions.php:1517 functions.php:2705
+msgid "Height"
+msgstr ""
+
+#: functions.php:1518
+msgid ""
+"You can define a height for the page header, enter it with the unit of "
+"measurement, ex. 150px."
+msgstr ""
+
+#: functions.php:1519
+msgid "Page Header Layouts"
+msgstr ""
+
+#: functions.php:1520
+msgid "BlogCentral provides 3 page header layouts."
+msgstr ""
+
+#: functions.php:1535 functions.php:2570
+msgid "Posts Listing Pages"
+msgstr ""
+
+#: functions.php:1536
+msgid ""
+"These options will affect the appearance of the posts listing in the main "
+"area on all pages that display a posts listing in a div with id #main-area, "
+"eg. index, archive, author, search, category and tags pages."
+msgstr ""
+
+#: functions.php:1537 functions.php:2571
+msgid "Single Post Page"
+msgstr ""
+
+#: functions.php:1538
+msgid ""
+"BlogCentral offers the option to use the same settings of the posts listing "
+"page for the single post page.  If you choose to override the settings, then "
+"none of them will be used for the single post page."
+msgstr ""
+
+#: functions.php:1629
+msgid ""
+"Error: The post variable is corrupted. Please contact the administrator."
+msgstr ""
+
+#: functions.php:1744
+msgid "Error: Please select a demo."
+msgstr ""
+
+#: functions.php:1832
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions.php:1867
+msgid "Version: 1.1.3"
+msgstr ""
+
+#: functions.php:1870
+msgid "For tutorials, and more visit"
+msgstr ""
+
+#: functions.php:1871
+msgid "Our Website"
+msgstr ""
+
+#: functions.php:1875
+msgid "BlogCentral Pro- upgrade now!"
+msgstr ""
+
+#: functions.php:1894
+msgid "General Background, Colors, & Sizes"
+msgstr ""
+
+#: functions.php:1910
+msgid "Footer"
+msgstr ""
+
+#: functions.php:1912 functions.php:2596
+msgid "Custom CSS"
+msgstr ""
+
+#: functions.php:1915
+msgid "General Settings"
+msgstr ""
+
+#: functions.php:1916 functions.php:2209 functions.php:2295 functions.php:2497
+#: functions.php:2592
+msgid ""
+"Customize these options to fit your needs, or leave blank to use the default "
+"value."
+msgstr ""
+
+#: functions.php:1918
+msgid ""
+"Demos - choose from 3 different demos. <span class=\"warning\">Warning:</"
+"span> Choosing a demo will delete all of your saved options. If this is not "
+"desired, backup your options before changing the demo. You have to click on "
+"the \"Change Demo\" button to change the demo."
+msgstr ""
+
+#: functions.php:1928
+msgid "Do not use a demo."
+msgstr ""
+
+#: functions.php:1930 page-template-blog-demo1.php:60
+msgid "Demo 1"
+msgstr ""
+
+#: functions.php:1933 page-template-blog-demo2.php:59
+msgid "Demo 2"
+msgstr ""
+
+#: functions.php:1936 page-template-blog-demo3.php:59
+msgid "Demo 3"
+msgstr ""
+
+#: functions.php:1944
+msgid "Box Display"
+msgstr ""
+
+#: functions.php:1948
+msgid "Enable block display"
+msgstr ""
+
+#: functions.php:1954
+msgid "Enable box display"
+msgstr ""
+
+#: functions.php:1958
+msgid ""
+"Box display adds a box shadow, and top and bottom margin to the main-div. "
+"Block display has to be enabled."
+msgstr ""
+
+#: functions.php:1964
+msgid "Default title border"
+msgstr ""
+
+#: functions.php:1969
+msgid "Shortcodes & Widgets border"
+msgstr ""
+
+#: functions.php:1985
+msgid ""
+"Default border style for all widget and shortcode titles. Can be changed per "
+"shortcode or widget provided by the 4bzCore plugin."
+msgstr ""
+
+#: functions.php:1991
+msgid "Show Sidebar"
+msgstr ""
+
+#: functions.php:1995
+msgid "Enable sidebar"
+msgstr ""
+
+#: functions.php:2002
+msgid "User Avatar"
+msgstr ""
+
+#: functions.php:2006
+msgid "Default image for users"
+msgstr ""
+
+#: functions.php:2013
+msgid "Color Chooser"
+msgstr ""
+
+#: functions.php:2017
+msgid "Display the color chooser"
+msgstr ""
+
+#: functions.php:2026
+msgid "Color Scheme"
+msgstr ""
+
+#: functions.php:2030
+msgid "Color scheme"
+msgstr ""
+
+#: functions.php:2033
+msgid "No color scheme"
+msgstr ""
+
+#: functions.php:2048
+msgid "Body"
+msgstr ""
+
+#: functions.php:2049
+msgid ""
+"To change the background of the body, navigate to \"Appearance->Background\" "
+"on the admin sidebar."
+msgstr ""
+
+#: functions.php:2053 functions.php:2318
+msgid "Text color"
+msgstr ""
+
+#: functions.php:2055
+msgid "Choose a color."
+msgstr ""
+
+#: functions.php:2063
+msgid "Default link color"
+msgstr ""
+
+#: functions.php:2065
+msgid "Default color of the links."
+msgstr ""
+
+#: functions.php:2073
+msgid "Default link hover color"
+msgstr ""
+
+#: functions.php:2076
+msgid "Default color of the links when hovered."
+msgstr ""
+
+#: functions.php:2081
+msgid "The default hover color is the color scheme, if chosen."
+msgstr ""
+
+#: functions.php:2086
+msgid "Default link visited color"
+msgstr ""
+
+#: functions.php:2089
+msgid "Default color of visited links."
+msgstr ""
+
+#: functions.php:2099
+msgid "Main Content"
+msgstr ""
+
+#: functions.php:2103 functions.php:2309
+msgid "Background color"
+msgstr ""
+
+#: functions.php:2106
+msgid "This is the area that holds the main area and sidebar."
+msgstr ""
+
+#: functions.php:2117
+msgid "Headers- enter size including unit of measurement, ex. 12px"
+msgstr ""
+
+#: functions.php:2122
+msgid "H1"
+msgstr ""
+
+#: functions.php:2125 functions.php:2140 functions.php:2154 functions.php:2168
+#: functions.php:2181 functions.php:2194
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:2129 functions.php:2143 functions.php:2158 functions.php:2171
+#: functions.php:2184 functions.php:2197
+msgid "Color"
+msgstr ""
+
+#: functions.php:2137
+msgid "H2"
+msgstr ""
+
+#: functions.php:2139
+msgid ""
+"Setting a font size or color on this will affect the post titles in the main "
+"posts content area."
+msgstr ""
+
+#: functions.php:2151
+msgid "H3"
+msgstr ""
+
+#: functions.php:2166
+msgid "H4"
+msgstr ""
+
+#: functions.php:2179
+msgid "H5"
+msgstr ""
+
+#: functions.php:2192
+msgid "H6"
+msgstr ""
+
+#: functions.php:2216
+msgid "Body text"
+msgstr ""
+
+#: functions.php:2222
+msgid "Headers"
+msgstr ""
+
+#: functions.php:2228
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:2237
+msgid "Social"
+msgstr ""
+
+#: functions.php:2241
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:2243 functions.php:2251
+msgid "Application id"
+msgstr ""
+
+#: functions.php:2249
+msgid "Google"
+msgstr ""
+
+#: functions.php:2261
+msgid ""
+"Customize these options to fit your needs, or leave blank to use the default "
+"value. To choose an icon, click in the text box."
+msgstr ""
+
+#: functions.php:2262
+msgid "Requires the 4bzCore plugin to be installed and activated."
+msgstr ""
+
+#: functions.php:2267
+msgid "Contact info"
+msgstr ""
+
+#: functions.php:2276
+msgid "Contact form"
+msgstr ""
+
+#: functions.php:2279
+msgid "Enter the shortcode here to display a contact form."
+msgstr ""
+
+#: functions.php:2299
+msgid "Sticky header"
+msgstr ""
+
+#: functions.php:2304
+msgid "Would you like the header to be fixed on top of the page on scroll?"
+msgstr ""
+
+#: functions.php:2327 functions.php:2391 functions.php:2526
+msgid "Link Color"
+msgstr ""
+
+#: functions.php:2336
+msgid "Logo"
+msgstr ""
+
+#: functions.php:2344
+msgid "Favicon"
+msgstr ""
+
+#: functions.php:2355
+msgid ""
+"Display contact information in the header top widget area. Active widgets in "
+"this area override this option."
+msgstr ""
+
+#: functions.php:2369
+msgid "Search Form"
+msgstr ""
+
+#: functions.php:2373
+msgid ""
+"Display a search form in the header widget area. Active widgets in this area "
+"override this option."
+msgstr ""
+
+#: functions.php:2384 functions.php:2508
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:2394
+msgid "Color of the menu links"
+msgstr ""
+
+#: functions.php:2403
+msgid "Active Link Color"
+msgstr ""
+
+#: functions.php:2406
+msgid "The default color is the color scheme, if set."
+msgstr ""
+
+#: functions.php:2409
+msgid "Color of the current page menu link."
+msgstr ""
+
+#: functions.php:2418
+msgid "Sub Menus"
+msgstr ""
+
+#: functions.php:2421
+msgid "Background color for all sub menus."
+msgstr ""
+
+#: functions.php:2428
+msgid "Color of the submenu links."
+msgstr ""
+
+#: functions.php:2445
+msgid ""
+"This is the widgetized area called precontent widget. If no widgets are "
+"active, then it serves as the page header and a box with an image and an "
+"overlay that shows what page is being viewed, the blog description, today's "
+"date, and the breadcrumbs will be shown, if enabled. To disable this, leave "
+"the following field unchecked."
+msgstr ""
+
+#: functions.php:2448
+msgid "Enable Page Header"
+msgstr ""
+
+#: functions.php:2453
+msgid "Enter height with unit of measurement - leave blank to use default."
+msgstr ""
+
+#: functions.php:2457 functions.php:3201 functions.php:3209 functions.php:3990
+#: includes/4bzcore.php:308 includes/4bzcore.php:415 includes/4bzcore.php:624
+msgid "Layout"
+msgstr ""
+
+#: functions.php:2460
+msgid "layout 1"
+msgstr ""
+
+#: functions.php:2463
+msgid "layout 2"
+msgstr ""
+
+#: functions.php:2466
+msgid "layout 3"
+msgstr ""
+
+#: functions.php:2469
+msgid "Page Header Text Color"
+msgstr ""
+
+#: functions.php:2476
+msgid "Enable show today's date"
+msgstr ""
+
+#: functions.php:2480
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: functions.php:2484
+msgid "Blog description"
+msgstr ""
+
+#: functions.php:2489
+msgid ""
+"Would you like to display the blog description? It will be displayed with "
+"the page title on the front posts listing page."
+msgstr ""
+
+#: functions.php:2498
+msgid ""
+"Footer- this area has 5 widget areas. The extended option will show all of "
+"these areas, simple option will show only two of these areas. The default is "
+"to show the simple version. As always, you can add widgets on the widgets."
+"php page."
+msgstr ""
+
+#: functions.php:2502
+msgid "Use extended version"
+msgstr ""
+
+#: functions.php:2517
+msgid "Text Color"
+msgstr ""
+
+#: functions.php:2535
+msgid "Link Hover Color"
+msgstr ""
+
+#: functions.php:2544
+msgid "Link Visited Color"
+msgstr ""
+
+#: functions.php:2553
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:2555
+msgid "Enter the copyright information."
+msgstr ""
+
+#: functions.php:2566
+msgid ""
+"Customize these options to fit your needs, or leave as-is to use the default "
+"value."
+msgstr ""
+
+#: functions.php:2579
+msgid ""
+"These options will affect the appearance of the posts listing in the main "
+"area on all pages that display a posts listing in a div with id #main-area."
+msgstr ""
+
+#: functions.php:2598
+msgid "Enter the css without style tags."
+msgstr ""
+
+#: functions.php:2610
+msgid "Save Options"
+msgstr ""
+
+#: functions.php:2615
+msgid "If you like BlogCentral and find it useful, please leave a "
+msgstr ""
+
+#: functions.php:2615
+msgid " rating. Thank you."
+msgstr ""
+
+#: functions.php:2622
+msgid ""
+"Subscribe to our newsletter and get updates, tips, and more in your inbox."
+msgstr ""
+
+#: functions.php:2623
+msgid "indicates required field"
+msgstr ""
+
+#: functions.php:2625
+msgid "Email address"
+msgstr ""
+
+#: functions.php:2629
+msgid "First Name"
+msgstr ""
+
+#: functions.php:2633
+msgid "Last Name"
+msgstr ""
+
+#: functions.php:2701
+msgid "Upload image"
+msgstr ""
+
+#: functions.php:2702
+msgid "Width"
+msgstr ""
+
+#: functions.php:2709
+msgid "Alt Text"
+msgstr ""
+
+#: functions.php:2715
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:2719
+msgid "fixed"
+msgstr ""
+
+#: functions.php:2722
+msgid "scroll"
+msgstr ""
+
+#: functions.php:2724
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:2728
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:2732
+msgid "repeat"
+msgstr ""
+
+#: functions.php:2735
+msgid "repeat-x"
+msgstr ""
+
+#: functions.php:2738
+msgid "repeat-y"
+msgstr ""
+
+#: functions.php:2741
+msgid "no-repeat"
+msgstr ""
+
+#: functions.php:2757
+msgid "no border"
+msgstr ""
+
+#: functions.php:2817
+msgid "Font Family"
+msgstr ""
+
+#: functions.php:2819
+msgid "no font"
+msgstr ""
+
+#: functions.php:2820
+msgid "System Fonts"
+msgstr ""
+
+#: functions.php:2845
+msgid "Google Fonts"
+msgstr ""
+
+#: functions.php:2914
+msgid "100 light"
+msgstr ""
+
+#: functions.php:2915
+msgid "100 light italic"
+msgstr ""
+
+#: functions.php:2916
+msgid "200 light"
+msgstr ""
+
+#: functions.php:2917
+msgid "200 light italic"
+msgstr ""
+
+#: functions.php:2918
+msgid "300 light"
+msgstr ""
+
+#: functions.php:2919
+msgid "300 light italic"
+msgstr ""
+
+#: functions.php:2920
+msgid "400 regular"
+msgstr ""
+
+#: functions.php:2921
+msgid "400 italic"
+msgstr ""
+
+#: functions.php:2922
+msgid "medium"
+msgstr ""
+
+#: functions.php:2923
+msgid "medium italic"
+msgstr ""
+
+#: functions.php:2924
+msgid "bold"
+msgstr ""
+
+#: functions.php:2925
+msgid "bold italic"
+msgstr ""
+
+#: functions.php:2926
+msgid "700 bold"
+msgstr ""
+
+#: functions.php:2927
+msgid "700 bold italic"
+msgstr ""
+
+#: functions.php:2928
+msgid "800 bold"
+msgstr ""
+
+#: functions.php:2929
+msgid "800 bold italic"
+msgstr ""
+
+#: functions.php:2930
+msgid "900 bold"
+msgstr ""
+
+#: functions.php:2931
+msgid "900 bold italic"
+msgstr ""
+
+#: functions.php:2970
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:3010
+msgid "Subsets"
+msgstr ""
+
+#: functions.php:3053
+msgid ""
+"Error: Unable to connect to the Google Webfont server at this time. Please "
+"review the list of errors below returned by Google."
+msgstr ""
+
+#: functions.php:3196
+msgid "Layout - choose from 3 different layouts."
+msgstr ""
+
+#: functions.php:3243
+msgid "Content under media"
+msgstr ""
+
+#: functions.php:3254
+msgid "Hat Back"
+msgstr ""
+
+#: functions.php:3255
+msgid "Content floated to right of media, in a two column design."
+msgstr ""
+
+#: functions.php:3264
+msgid "Text Layout, no media or post format icon will be displayed."
+msgstr ""
+
+#: functions.php:3303
+msgid "General Options"
+msgstr ""
+
+#: functions.php:3310 includes/4bzcore.php:584
+msgid "How many columns?"
+msgstr ""
+
+#: functions.php:3316
+msgid ""
+"Note: the number of columns shown may change due to the size of the screen "
+"and/or the layout chosen for the posts. Layout 2, at the most, will be "
+"displayed in 2 columns, even if you choose 3 or 4 columns."
+msgstr ""
+
+#: functions.php:3322
+msgid "Border for each post"
+msgstr ""
+
+#: functions.php:3327
+msgid "No border"
+msgstr ""
+
+#: functions.php:3331
+msgid "Bottom Border"
+msgstr ""
+
+#: functions.php:3339
+msgid "Masonry display"
+msgstr ""
+
+#: functions.php:3344
+msgid "Display in a masonry layout"
+msgstr ""
+
+#: functions.php:3350
+msgid "Alternate background color"
+msgstr ""
+
+#: functions.php:3355
+msgid ""
+"Even items children will have a background color. You can customize the "
+"color by entering code in the custom css box. To target the children use "
+"this code: .alternate-color .component:nth-child(2n) .component-content-wrap "
+"{ background-color: #your color here !important; }"
+msgstr ""
+
+#: functions.php:3405
+msgid "Custom Text- title and tagline will be shown on the front page."
+msgstr ""
+
+#: functions.php:3410 functions.php:3541 functions.php:3805
+msgid "Title"
+msgstr ""
+
+#: functions.php:3416
+msgid "Title Border Style"
+msgstr ""
+
+#: functions.php:3420 functions.php:3449
+msgid "use default border"
+msgstr ""
+
+#: functions.php:3433
+msgid "Border style for the title."
+msgstr ""
+
+#: functions.php:3438
+msgid "Tagline Text"
+msgstr ""
+
+#: functions.php:3441
+msgid "The text below the title"
+msgstr ""
+
+#: functions.php:3446
+msgid "Tagline Border Style"
+msgstr ""
+
+#: functions.php:3461
+msgid "Border style for the tagline."
+msgstr ""
+
+#: functions.php:3469
+msgid "Custom Classes"
+msgstr ""
+
+#: functions.php:3476
+msgid "Wrap Classes"
+msgstr ""
+
+#: functions.php:3479
+msgid ""
+"Default class is components-wrap, you can add more classes, separate them "
+"with a space."
+msgstr ""
+
+#: functions.php:3484
+msgid "Header Classes"
+msgstr ""
+
+#: functions.php:3488
+msgid "Separate classes with a space."
+msgstr ""
+
+#: functions.php:3533
+msgid "Display Social Share"
+msgstr ""
+
+#: functions.php:3575
+msgid "Featured Post Image(s) Size"
+msgstr ""
+
+#: functions.php:3579
+msgid "Use the dimensions of the image"
+msgstr ""
+
+#: functions.php:3581
+msgid ""
+"Scale the image to fit its container. Width will be 100% and height=auto"
+msgstr ""
+
+#: functions.php:3586
+msgid "Sticky Posts Display"
+msgstr ""
+
+#: functions.php:3588
+msgid ""
+"If using a multiple column layout for posts display, check this box to "
+"display sticky posts full width."
+msgstr ""
+
+#: functions.php:3592
+msgid "Default Icon"
+msgstr ""
+
+#: functions.php:3594
+msgid ""
+"Choose an icon to represent the standard, aside, chat, and status post "
+"formats. Leave blank to not use an icon."
+msgstr ""
+
+#: functions.php:3603
+msgid "Image Icon"
+msgstr ""
+
+#: functions.php:3605
+msgid ""
+"Choose an icon to represent the image post format. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3614
+msgid "Audio Icon"
+msgstr ""
+
+#: functions.php:3616
+msgid ""
+"Choose an icon to represent the audio post format. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3625
+msgid "Video Icon"
+msgstr ""
+
+#: functions.php:3627
+msgid ""
+"Choose an icon to represent the video post format. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3636
+msgid "Gallery Icon"
+msgstr ""
+
+#: functions.php:3638
+msgid ""
+"Choose an icon to represent the gallery post format. Leave blank to not use "
+"an icon."
+msgstr ""
+
+#: functions.php:3647
+msgid "Link Icon"
+msgstr ""
+
+#: functions.php:3649
+msgid ""
+"Choose an icon to represent the link post format. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3658
+msgid "Quote Icon"
+msgstr ""
+
+#: functions.php:3660
+msgid ""
+"Choose an icon to represent the quote post format. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3669
+msgid "Author Icon"
+msgstr ""
+
+#: functions.php:3671
+msgid ""
+"Choose Icon to be shown with the author's name. Leave blank to not use an "
+"icon."
+msgstr ""
+
+#: functions.php:3680
+msgid "Date Icon"
+msgstr ""
+
+#: functions.php:3682
+msgid "Choose Icon to be shown with the post date"
+msgstr ""
+
+#: functions.php:3691
+msgid "Categories List Icon"
+msgstr ""
+
+#: functions.php:3693
+msgid "Choose Icon to be shown with the categories list"
+msgstr ""
+
+#: functions.php:3703
+msgid "Tags List Icon"
+msgstr ""
+
+#: functions.php:3705
+msgid "Choose Icon to be shown with the tags list"
+msgstr ""
+
+#: functions.php:3715
+msgid "Comments Icon"
+msgstr ""
+
+#: functions.php:3717
+msgid "Choose Icon to be shown with the comment number"
+msgstr ""
+
+#: functions.php:3767
+msgid ""
+"Override posts listing settings. If checked none of the settings for the "
+"listing page will be applied to the single post page."
+msgstr ""
+
+#: functions.php:3799
+msgid "Post Data"
+msgstr ""
+
+#: functions.php:3809
+msgid "Show post title"
+msgstr ""
+
+#: functions.php:3814
+msgid "Post Content"
+msgstr ""
+
+#: functions.php:3817
+msgid "Show Content"
+msgstr ""
+
+#: functions.php:3822 functions.php:4782
+msgid "Author"
+msgstr ""
+
+#: functions.php:3825
+msgid "Show Author"
+msgstr ""
+
+#: functions.php:3830
+msgid "Post Date"
+msgstr ""
+
+#: functions.php:3833
+msgid "Show Date"
+msgstr ""
+
+#: functions.php:3837 templates/postmeta-layout.php:126
+msgid "Categories"
+msgstr ""
+
+#: functions.php:3840
+msgid "Show Categories"
+msgstr ""
+
+#: functions.php:3845 templates/postmeta-layout.php:138
+msgid "Tags"
+msgstr ""
+
+#: functions.php:3848
+msgid "Show Tags"
+msgstr ""
+
+#: functions.php:3852
+msgid "Stats"
+msgstr ""
+
+#: functions.php:3855
+msgid "Show Comments"
+msgstr ""
+
+#: functions.php:3859
+msgid "Social Share"
+msgstr ""
+
+#: functions.php:3865
+msgid "Show Icons"
+msgstr ""
+
+#: functions.php:3868
+msgid "Show icons - if disabled, will not show any icons."
+msgstr ""
+
+#: functions.php:3872
+msgid "Post Meta Layout"
+msgstr ""
+
+#: functions.php:3876
+msgid ""
+"The post meta includes the author, date, categories, tags, and comment "
+"number."
+msgstr ""
+
+#: functions.php:3880 functions.php:3881
+msgid "Layout 1"
+msgstr ""
+
+#: functions.php:3883 functions.php:3884 functions.php:3909
+msgid "Layout 2"
+msgstr ""
+
+#: functions.php:3890
+msgid "Gallery Posts"
+msgstr ""
+
+#: functions.php:3894
+msgid ""
+"Show gallery posts featured images as a slideshow. The 4bzCore plugin must "
+"be installed and activated."
+msgstr ""
+
+#: functions.php:3898
+msgid "Quote Posts Layout"
+msgstr ""
+
+#: functions.php:3902
+msgid "Layout used for posts of format quote."
+msgstr ""
+
+#: functions.php:3906
+msgid "Layout 1 - default, show like all other post formats"
+msgstr ""
+
+#: functions.php:3911
+msgid "Quote layout 2"
+msgstr ""
+
+#: functions.php:3917
+msgid "Post Format Icon"
+msgstr ""
+
+#: functions.php:3920
+msgid "Display post format icon"
+msgstr ""
+
+#: functions.php:3940
+msgid "Query Options"
+msgstr ""
+
+#: functions.php:3944
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: functions.php:3947
+msgid "Check this box if you do not want sticky posts to be placed first."
+msgstr ""
+
+#: functions.php:3951 functions.php:3954
+msgid "Show only sticky posts"
+msgstr ""
+
+#: functions.php:3958
+msgid "Number of posts to display"
+msgstr ""
+
+#: functions.php:3965
+msgid "Default is to display all posts."
+msgstr ""
+
+#: functions.php:3993
+msgid "horizontal"
+msgstr ""
+
+#: functions.php:3995
+msgid "vertical"
+msgstr ""
+
+#: functions.php:4001
+msgid "Display address"
+msgstr ""
+
+#: functions.php:4003
+msgid "Display phone"
+msgstr ""
+
+#: functions.php:4005
+msgid "Display email"
+msgstr ""
+
+#: functions.php:4007
+msgid "Display website"
+msgstr ""
+
+#: functions.php:4032 functions.php:4074
+msgid "No swiping"
+msgstr ""
+
+#: functions.php:4113
+msgid "No Swiping"
+msgstr ""
+
+#: functions.php:4769
+msgid "Home"
+msgstr ""
+
+#: functions.php:4778
+msgid "Category: "
+msgstr ""
+
+#: functions.php:4780
+msgid "Tag: "
+msgstr ""
+
+#: functions.php:4784
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:4859
+msgid "Today is "
+msgstr ""
+
+#: functions.php:4916
+msgid "Choose color scheme"
+msgstr ""
+
+#: functions.php:4935
+msgid "Read more"
+msgstr ""
+
+#: functions.php:5036
+msgid ">"
+msgstr ""
+
+#: functions.php:5060
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:5062
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: functions.php:5063
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:5082
+msgid "Comments"
+msgstr ""
+
+#: functions.php:5083
+msgid "Comment"
+msgstr ""
+
+#: functions.php:5091
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: functions.php:5126
+msgid " Older Comments"
+msgstr ""
+
+#: functions.php:5129
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:5144
+msgid "You already left a comment for this post."
+msgstr ""
+
+#: functions.php:5148
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:5176
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:5178 functions.php:5300
+msgid "Edit"
+msgstr ""
+
+#: functions.php:5293
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:5298
+msgid "Reply"
+msgstr ""
+
+#: functions.php:5307
+msgid "Your comment is awaiting approval."
+msgstr ""
+
+#: header.php:65 header.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: page-template-about-me.php:23
+msgid "About Me"
+msgstr ""
+
+#: page-template-about-me.php:38
+msgid "My Skills"
+msgstr ""
+
+#: page-template-about-me.php:60
+msgid "Programmer Extraordinaire"
+msgstr ""
+
+#: page-template-about-me.php:61
+msgid "Doing it since 1996"
+msgstr ""
+
+#: page-template-about-me.php:121
+msgid "Some of My Recent Work"
+msgstr ""
+
+#: page-template-about-me.php:134
+msgid "Do You Like What You See?"
+msgstr ""
+
+#: page-template-about-me.php:134
+msgid "Hire Me"
+msgstr ""
+
+#: page-template-contact.php:34
+msgid "Contact"
+msgstr ""
+
+#: page-template-full-width.php:61
+msgid "Full Width Blog"
+msgstr ""
+
+#: page.php:39 templates/postmeta-layout.php:91
+msgid "Page"
+msgstr ""
+
+#: search.php:53
+#, php-format
+msgid " Results Found For: %s"
+msgstr ""
+
+#: search.php:56
+#, php-format
+msgid "No Results Found For: %s"
+msgstr ""
+
+#: search.php:125
+msgid "No results found. Please try again with different search terms."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: single.php:68
+msgid "Single Blog Page"
+msgstr ""
+
+#: tag.php:53
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: includes/4bzcore.php:147 includes/4bzcore.php:695
+msgid "Limit"
+msgstr ""
+
+#: includes/4bzcore.php:148 includes/4bzcore.php:696
+msgid "Number of items to display"
+msgstr ""
+
+#: includes/4bzcore.php:196
+msgid "Contact Info Specific Options"
+msgstr ""
+
+#: includes/4bzcore.php:304
+msgid "Contact Form Specific Options"
+msgstr ""
+
+#: includes/4bzcore.php:312 includes/4bzcore.php:423
+msgid "wide"
+msgstr ""
+
+#: includes/4bzcore.php:315 includes/4bzcore.php:420
+msgid "boxed"
+msgstr ""
+
+#: includes/4bzcore.php:320
+msgid ""
+"Enter the shortcode here to display a contact form, or leave blank and use "
+"the one entered on the theme options page."
+msgstr ""
+
+#: includes/4bzcore.php:332
+msgid ""
+"Show Contact Information - depending on the screen size, it will be to the "
+"left of the contact form."
+msgstr ""
+
+#: includes/4bzcore.php:345
+msgid "Google Map"
+msgstr ""
+
+#: includes/4bzcore.php:349
+msgid ""
+"Show Google Map - it will be above the contact form. Enter your google "
+"application id on the theme options page."
+msgstr ""
+
+#: includes/4bzcore.php:411
+msgid "Slideshow Specific Options"
+msgstr ""
+
+#: includes/4bzcore.php:428
+msgid "Animation"
+msgstr ""
+
+#: includes/4bzcore.php:432
+msgid "fade"
+msgstr ""
+
+#: includes/4bzcore.php:435
+msgid "slide"
+msgstr ""
+
+#: includes/4bzcore.php:440
+msgid "Sync"
+msgstr ""
+
+#: includes/4bzcore.php:451
+msgid "Navigation for"
+msgstr ""
+
+#: includes/4bzcore.php:462
+msgid "Easing"
+msgstr ""
+
+#: includes/4bzcore.php:475
+msgid "useCSS"
+msgstr ""
+
+#: includes/4bzcore.php:479
+msgid "false"
+msgstr ""
+
+#: includes/4bzcore.php:482
+msgid "true"
+msgstr ""
+
+#: includes/4bzcore.php:487
+msgid "Slides"
+msgstr ""
+
+#: includes/4bzcore.php:489
+msgid ""
+"Sort the slides by hovering over a slide until a hand appears, drag and drop "
+"where desired."
+msgstr ""
+
+#: includes/4bzcore.php:561
+msgid "Progressbars Specific Options"
+msgstr ""
+
+#: includes/4bzcore.php:563
+msgid "Items"
+msgstr ""
+
+#: includes/4bzcore.php:565
+msgid ""
+"Sort the progressbars by hovering over an item until a hand appears, drag "
+"and drop where desired."
+msgstr ""
+
+#: includes/4bzcore.php:565
+msgid "Add Item"
+msgstr ""
+
+#: includes/4bzcore.php:575
+msgid "Name"
+msgstr ""
+
+#: includes/4bzcore.php:577
+msgid "Percentage"
+msgstr ""
+
+#: includes/4bzcore.php:578
+msgid "Enter percentage as a number 0-100"
+msgstr ""
+
+#: includes/4bzcore.php:623
+msgid "Image Text Specific Options"
+msgstr ""
+
+#: includes/4bzcore.php:625
+msgid "Float description around image"
+msgstr ""
+
+#: includes/4bzcore.php:627
+msgid "Overlay"
+msgstr ""
+
+#: includes/4bzcore.php:629
+msgid "Description below image"
+msgstr ""
+
+#: includes/4bzcore.php:632
+msgid "Image"
+msgstr ""
+
+#: includes/4bzcore.php:634
+msgid "Upload Image"
+msgstr ""
+
+#: includes/4bzcore.php:641
+msgid "Description"
+msgstr ""
+
+#: includes/4bzcore.php:710 includes/4bzcore.php:711
+msgid "User id"
+msgstr ""
+
+#: templates/postmeta-layout.php:87
+msgid "Pages:"
+msgstr ""
+
+#: templates/postmeta-layout.php:109
+msgid "0"
+msgstr ""
+
+#: templates/postmeta-layout.php:110
+msgid "1"
+msgstr ""
+
+#: templates/postmeta-layout.php:110
+msgid "%"
+msgstr ""
+
+#: templates/postmeta-layout.php:114
+msgid "Comments: "
+msgstr ""

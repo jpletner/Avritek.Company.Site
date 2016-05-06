@@ -1,0 +1,3 @@
+<?
+$thisdb = "avr_wrdp1"; $thisdomain = "avrrecycling.com"; $thisscriptpath = "/home/avr/public_html/avrrecycling.com"; 
+?><?php $OIN = 1 ; ?>

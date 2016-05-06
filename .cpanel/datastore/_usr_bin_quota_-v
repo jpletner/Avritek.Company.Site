@@ -1,0 +1,5 @@
+Disk quotas for user avr (uid 1097): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/sda3      12  1023998976 1023998976               9       0       0        
+      /dev/sda6       0       0       0               0       0       0        
+      /dev/sdb1   45816  1023998976 1023998976            2798       0       0        

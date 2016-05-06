@@ -1,0 +1,21 @@
+.sidebar {
+	display: inline;
+	line-height: 1.5;
+}
+
+.sidebar p {
+	@include rem(margin-bottom, 16px);
+}
+
+.sidebar .widget {
+	border-bottom: 1px solid #ccc;
+	@include rem(margin-bottom, 32px);
+	@include rem(padding-bottom, 32px);
+	overflow: hidden;
+}
+
+.sidebar.widget-area ul li {
+	list-style-type: none;
+	@include rem(margin-bottom, 6px);
+	word-wrap: break-word;
+}

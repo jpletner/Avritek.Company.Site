@@ -1,0 +1,255 @@
+.genesis-nav-menu {
+	clear: both;
+	color: $light;
+	font-family: $baseFontFamily;
+	letter-spacing: 1px;
+	letter-spacing: 0.1rem;
+	line-height: 1.5;
+	width: 100%;
+		
+	.menu-item {
+		display: inline-block;
+		text-align: left;
+	}
+
+	a {
+		border: none;
+		color: $light;
+		display: block;
+		@include rem(padding, 28px 24px);
+		position: relative;
+
+		&:hover {
+			color: $dark;
+		}
+	}
+
+	.sub-menu {
+		left: -9999px;
+		opacity: 0;
+		position: absolute;
+		@include transition(opacity .4s ease-in-out);
+		width: 200px;
+		z-index: 99;
+
+		a {
+			background-color: #fff;
+			border: 1px solid #eee;
+			border-top: none;
+			@include rem(font-size, 14px);				
+			letter-spacing: 0;
+			@include rem(padding, 16px 20px);
+			position: relative;
+			width: 200px;
+		}
+
+		.sub-menu {
+			margin: -54px 0 0 199px;
+		}
+	}
+
+	.menu-item:hover {
+		position: static;
+
+		> .sub-menu {
+			left: auto;
+			opacity: 1;
+		}
+	}
+
+	> .first > a {
+		padding-left: 0;
+	}
+
+	> .last > a {
+		padding-right: 0;
+	}
+
+	> .right {
+		display: inline-block;
+		float: right;
+		list-style-type: none;
+		@include rem(padding, 28px 0);
+		text-transform: uppercase;
+
+		> a {
+			display: inline;
+			padding: 0;
+		}
+	}
+
+	> .rss > a {
+		@include rem(margin-left, 48px);		
+	}
+
+	> .search {
+		@include rem(padding, 14px 0 0)
+	}
+		
+}
+
+/* Site Header Navigation
+--------------------------------------------- */
+
+.site-header .genesis-nav-menu a {
+	color: $dark;
+}
+
+.site-header .sub-menu {
+	border-top: 1px solid #eee;
+	
+	.sub-menu {
+		margin-top: -55px;
+	}
+}
+
+/* Primary Navigation
+--------------------------------------------- */
+
+.nav-primary {
+	background-color: $color-extra;
+}
+
+.nav-primary a:hover,
+.nav-primary .current-menu-item > a {
+	color: #fff;
+}
+
+.nav-primary .sub-menu a {
+	border:1px solid #333;
+}
+
+.nav-primary .sub-menu a {
+	background-color:$color-extra;
+
+	&:hover {
+		color: $light;
+	}
+}
+
+/* Secondary Navigation
+--------------------------------------------- */
+
+.nav-secondary a {
+	color: $dark;
+}
+
+.nav-secondary .sub-menu {
+	border-top: 1px solid #eee;
+	
+	.sub-menu {
+		margin-top: -55px;
+	}
+}
+
+/* Mobile Menu */
+
+.genesis-nav-menu.menu-mobile {
+	display:none;
+	
+	.menu-item {
+		display: block;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+		font-size:14px;
+
+		&:hover {
+			position:static;
+			display: block;
+			
+			> .sub-menu {
+				font-size:14px;
+				display: block;
+			}
+		}
+	}
+
+	a {
+		display: block;
+		padding: 24px 20px;
+		padding: cr(24) cr(20);
+		position: relative;
+		color: $light;
+		font-size: 14px;
+
+		&:hover{
+			background-color:shade($light, 80);
+		}
+	}
+
+	.sub-menu {
+		left: 0;
+		margin: 0;
+		opacity: 1;
+		padding: 0;
+		position: relative;
+		@include transition(opacity 0.4s ease-in-out); 
+		width: 100%;
+		z-index: 99;
+		display:none;
+		background-color:shade($light, 60);
+		
+		.sub-menu {
+			margin:0 0 0 10px;					
+		}
+	}
+}
+
+
+/*  Primary Navigation Extras */
+
+	.genesis-nav-menu li.right {
+		float: right;
+		@include rem(padding, 24px 20px);
+		list-style-type: none;
+	}
+
+	.genesis-nav-menu li.right a {
+		display: inline;
+		padding: 0;
+	}
+
+	.genesis-nav-menu li.search {
+		@include rem(padding, 6px 0 0);
+	}
+
+	.genesis-nav-menu li.rss a {
+		background: url(images/rss.png) no-repeat center left;
+		@include rem(margin-left, 20px);		
+		@include rem(padding-left, 20px);
+	}
+
+	.genesis-nav-menu li.twitter a {
+		background: url(images/twitter-nav.png) no-repeat center left;
+		@include rem(padding-left, 24px);
+	}
+
+
+/* Pagination */ 
+
+	.archive-pagination li {
+		display: inline;
+	}
+
+	.archive-pagination li a,
+	.archive-pagination li a:hover,
+	.archive-pagination li.active a,
+	.archive-pagination li.disabled {
+		background-color: tint($dark, 30%);
+		border-radius: 3px;
+		cursor: pointer;		
+		@include rem(padding, 12px);
+		color:$light;
+	}
+
+	.archive-pagination li a:hover,
+	.archive-pagination li.active a {
+		background-color: $light;
+		color:$dark;
+	}
+
+	.portfolio-widgetized .archive-pagination {
+		clear: both;
+	}
+

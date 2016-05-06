@@ -1,0 +1,615 @@
+/**
+ * Theme Name: BlogCentral
+ * Theme URI: http://4bzthemes.com/theme/blogcentral/
+ * Author: 4bzthemes
+ * Author URI: http://4bzthemes.com
+ * File Description: Responsive Stylesheet.
+ *
+ * @since BlogCentral 1.0.0
+ *
+ * @package BlogCentral
+ * @subpackage responsive.css
+-------------------------------------------------------------------------
+	Table of Contents
+	
+	1.0 Min Width: 1400px
+		1.1  Minimize Width
+		1.2  Main Menu
+	2.0 Min Width: 1024px
+	3.0 Max Width: 1023px + Min Width: 783px 
+		3.1  Eliminate Columns
+		3.2  Main Menu
+	4.0 Max Width: 782px + Min Width: 641px 
+		4.1  Eliminate Columns
+		4.2  Header
+		4.3  Main Menu
+		4.4  Sidebar
+		4.5  Footer
+		4.6  Components
+		4.7  Single Post Page
+	5.0 Max Width: 640px 
+		5.1  Eliminate Columns
+		5.2  Header
+		5.3  Main Menu
+		5.4  Style Chooser
+		5.5  Sidebar
+		5.6  Footer
+		5.7  Components
+		5.8  Single Post Page
+		5.9  About Me Page
+		5.10 Flexslider
+	6.0 Max Width: 400px
+		6.1  Posts
+		6.2  Single Post Page
+-------------------------------------------------------------------------*/
+
+/**
+ * 1.0 Min Width: 1400px
+ *-----------------------------------------------------------------------*/
+@media only screen and (min-width:1400px)
+{
+	/**
+	 * 1.1  Minimize Width
+	 *-----------------------------------------------------------------------*/
+	#precontent-widget-cont .widget-container,
+	#main-content,
+	#header-top,
+	#header-mid,
+	#header-btm,
+	#footer-top-cont,
+	#footer-btm,
+	.about-me-template > .section,
+	.about-me-template .contact-form,
+	.about-me-template .about-me li,
+	.about-me-template .about-me .section-title,
+	.about-me-template .skills {
+		padding-left: 18% !important;
+		padding-right: 18% !important;
+	}
+	
+	.caption {
+		margin-left: 18%;
+		margin-right: 18%;
+	}
+	
+	.block-display #header-top,
+	.block-display #header-btm,
+	.block-display #precontent-widget-cont .widget-container,
+	.block-display #footer-top-cont,
+	.block-display #footer-btm,
+	.block-display .about-me-template > .section,
+	.block-display .about-me-template .contact-form,
+	.block-display .about-me-template .about-me li,
+	.block-display .about-me-template .about-me .section-title,
+	.block-display .about-me-template .skills {
+		padding-left: 2%;
+		padding-right: 2%;
+	}
+	
+	/**
+	 * 1.2  Main Menu
+	 *-----------------------------------------------------------------------*/
+	#access ul li:hover > ul {
+		display: block !important;
+	}
+}
+
+/**
+ * 2.0 Min Width: 1024px
+ *-----------------------------------------------------------------------*/
+@media only screen and (min-width:1024px)
+{
+	/* Main Menu */
+	#access ul li:hover > ul {
+		display: block !important;
+	}
+	
+}
+
+/**
+ * 3.0 Max Width: 1023px + Min Width: 783px
+ *-----------------------------------------------------------------------*/
+@media only screen and (max-width:1023px)
+and (min-width:783px) 
+{
+	/**
+	 * 3.1  Eliminate Columns
+	 *-----------------------------------------------------------------------*/
+	#header-widget,
+	#header-widget .widget-container,
+	#access,
+	#main-posts-cont li.widget-container,
+	#breadcrumbs,
+	.cols > ul.components-list > .component:not(.full-height).layout2,
+	.component-media-wrap.opp  {
+		display: block;
+		float: none;
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 0;
+		padding-right: 0;
+		width: 100%;
+	}
+	
+	/**
+	 * 3.2  Main Menu
+	 *-----------------------------------------------------------------------*/
+	 #access ul li:hover > ul {
+		display: block !important;
+	}
+}
+
+/**
+ * 4.0 Max Width: 782px + Min Width: 641px 
+ *-----------------------------------------------------------------------*/
+@media only screen and (max-width:782px) and (min-width:641px) {
+	
+	/**
+	 * 4.1  Eliminate Columns
+	 *-----------------------------------------------------------------------*/
+	#header .contact-info li,
+	#logo,
+	#access,
+	#breadcrumbs,
+	#preposts-left,
+	#preposts-right,
+	#main-area,
+	#main-posts-cont li.widget-container,
+	#sidebar-rght,
+	#footer-lft,
+	#footer-mid,
+	#footer-rght,
+	#footer-widget-btm-rght,
+	#footer-widget-btm-lft,
+	.comment-form-author,
+	.comment-form-email,
+	.cols > ul.components-list > .component:not(.full-height),
+	.component-media-wrap.opp {
+		border-left: none;
+		display: block;
+		float: none !important;
+		height: auto !important;
+		margin-left: 0;
+		margin-right: 0;
+		max-width: 100% !important;
+		padding-left: 0;
+		padding-right: 0;
+		width: 100% !important;
+	}
+	
+	#main-content,
+	.block-display.box-display #main-content,
+	#header-top,
+	#header-mid,
+	#header-btm,
+	#precontent-widget-cont .widget-container,
+	#footer-top-cont,
+	#footer-btm,
+	.about-me li,
+	.skills,
+	.about-me .section-title,
+	.component.about-me-template form,
+	.offset,
+	.min-div,
+	.section {
+		padding-left: 18px;
+		padding-right: 18px;
+	}
+	
+	/**
+	 * 4.2  Header
+	 *-----------------------------------------------------------------------*/
+	#header {
+		border: 1px solid transparent;
+	}
+	
+	/* Need a bottom margin on the contact lis because they are now block elements */
+	#header .contact-info li {
+		margin-bottom: 6px; 
+	}
+	
+	/* Social Share */
+	#header-top .list-horizontal .social-share {
+		float: none;
+	}
+	
+	/* Fixed Header Style when admin bar is shown*/ 
+	body.admin-bar .fixed-header {
+		top: 28px;
+		top: 46px;
+	}
+	
+	/**
+	 * 4.3  Main Menu
+	 *-----------------------------------------------------------------------*/
+	#access ul li:hover > ul {
+		display: block !important;
+	}
+	
+	/**
+	 * 4.4  Sidebar
+	 *-----------------------------------------------------------------------*/
+	#sidebar-rght .gutter {
+		border-left: none;
+		padding-bottom: 0;
+		padding-left: 0;
+		padding-top: 0;
+		width: 100%;
+	}
+	
+	/**
+	 * 4.5  Footer
+	 *-----------------------------------------------------------------------*/
+	#footer-btm ,
+	#footer-widget-btm-rght {
+		text-align: center;
+	}
+	
+	#footer-lft,
+	#footer-mid,
+	#footer-rght,
+	#footer-widget-btm-lft {
+		padding-bottom: 24px;
+	}
+	
+	.footer .copyright img {
+		display: block;
+		margin: 0 auto 0 auto;
+	}
+	
+	/**
+	 * 4.6  Components
+	 *-----------------------------------------------------------------------*/
+	.component:not(.full-height),
+	.cols-1 .component {
+		margin-right: 0 !important;
+	}
+	
+	/**
+	 * 4.7  Single Post Page
+	 *-----------------------------------------------------------------------*/
+	.show-sidebar .widget-container,
+	.show-sidebar #preposts-right,
+	.show-sidebar #single-post-after-widget,
+	.show-sidebar .author-bio, 
+	.show-sidebar #comments,
+	.show-sidebar #comments li,
+	.show-sidebar #comments form,
+	.show-sidebar .contact-form,
+	.show-sidebar .navigation,
+	.show-sidebar #main-posts-cont .cols-1 .component-gutter {
+		margin-right: 0;
+		padding-right: 0;
+	}
+}
+
+/**
+ * 5.0 Max Width: 640px
+ *-----------------------------------------------------------------------*/
+@media only screen and (max-width:640px) {
+	/**
+	 * 5.1  Eliminate Columns
+	 *-----------------------------------------------------------------------*/
+	#header .contact-info li,
+	#header #social-share,
+	#header-widget,
+	#header-widget .widget-container,
+	#logo,
+	#access,
+	#access ul ul,
+	#access li,
+	#breadcrumbs,
+	#preposts-left,
+	#preposts-right,
+	#main-area,
+	#main-posts-cont li.widget-container,
+	#sidebar-rght,
+	#footer-lft,
+	#footer-mid,
+	#footer-rght,
+	#footer-widget-btm-lft,
+	#footer-widget-btm-rght,
+	.layout2.component .component-media-wrap,
+	.cols > ul.components-list > .component:not(.full-height),
+	.component-media-wrap.opp,
+	.contact-form-cols-2 .contact-info-main,
+	.contact-form-cols-2 .contact-info-form {
+		border-left: none;
+		display: block;
+		float: none !important;
+		height: auto !important;
+		margin-left: 0;
+		margin-right: 0;
+		max-width: 100% !important;
+		padding-left: 0;
+		padding-right: 0;
+		width: 100% !important;
+	}
+
+	#main-content,
+	.block-display.box-display #main-content,
+	#header-top,
+	#header-mid,
+	#precontent-widget-cont .widget-container,
+	#footer-top-cont,
+	#footer-btm,
+	.about-me li,
+	.skills,
+	.about-me .section-title,
+	.component.about-me-template form,
+	.offset,
+	.min-div,
+	.section {
+		padding-left: 18px;
+		padding-right: 18px;
+	}
+	
+	#sidebar-rght .gutter,
+	.slide-template-2 .overlay,
+	.slide-template-3 .overlay {
+		padding-left: 18px;
+	}
+
+	.boxed,
+	.caption,
+	.no-overlay {
+		margin-left: 18px;
+		margin-right: 18px;
+	}
+	
+	/**
+	 * 5.2  Header
+	 *-----------------------------------------------------------------------*/
+	#header {
+		height: auto !important;
+		position: relative;
+		border: 1px solid transparent;
+	}
+	
+	/* Contact Info */
+	#header .contact-info li {
+		margin-bottom: 6px;
+	}
+	
+	/* Social Share */
+	#header-top .list-horizontal .social-share {
+		float: none;
+	}	
+	
+	/* Logo */
+	#logo {
+		margin-bottom: 12px;
+	}
+	
+	#logo .fa {
+		display: inline-block;
+	}
+	
+	/* Header Widget */
+	#header-widget {
+		margin-top: 12px;
+	}
+	
+	/**
+	 * 5.3  Main Menu
+	 *-----------------------------------------------------------------------*/
+	#access {
+		display: none;
+		text-align: left;
+	}
+	
+	#access ul,
+	#access ul li {
+		line-height: 24px;
+	}
+	
+	#access li {
+		border-bottom: 1px dotted #efefef;
+	}
+	
+	#access li > a {
+		padding-left: 12px;
+	}
+	
+	#access li .show-sub {
+		cursor: pointer;
+		float: right;
+		line-height: 40px;
+		padding-right: 12px;
+	}
+	
+	/* Submenu */
+	#access ul ul {
+		clear: both;
+		display: none;
+		padding-left: 20px;
+		position: relative;
+	}
+	
+	#access ul ul li {
+		background-color: transparent;
+		border-bottom: none;
+		min-width: 0;
+		padding: 5px 0;
+	}            
+	
+	#access ul ul li a {
+		color: #222;
+	}
+	
+	#access ul ul li:hover {
+		background: none;
+	}
+
+	#access ul ul ul {
+		left: 0;
+		padding-left: 15px;
+		top: 0;
+	}
+	
+	#access ul ul ul li {
+		border-bottom: none;
+	}
+	
+	#access ul li:hover > ul {
+		display: none;
+	}
+	
+	/**
+	 * 5.4  Style Chooser
+	 *-----------------------------------------------------------------------*/
+	#dynamic-style {
+		top: 10%;
+	}
+	
+	.style-chooser {
+		display: none;
+		padding: 10px;
+		top: 0;
+		width: auto;
+	}
+	
+	.style-chooser span {
+		display: inline-block;
+		height: 25px;
+		margin-right: 5px;
+		width: 25px;
+	}
+	
+
+	/**
+	 * 5.5  Sidebar
+	 *-----------------------------------------------------------------------*/
+	#sidebar-rght .gutter {
+		border-left: none;
+		padding-bottom: 0;
+		padding-left: 0;
+		padding-top: 0;
+		width: 100%;
+	}
+	
+	/**
+	 * 5.6  Footer
+	 *-----------------------------------------------------------------------*/
+	#footer-btm,
+	#footer-widget-btm-rght {
+		text-align: center;
+	}
+	
+	#footer-lft,
+	#footer-mid,
+	#footer-rght,
+	#footer-widget-btm-lft {
+		padding-bottom: 24px;
+	}
+	
+	.footer .copyright img {
+		display: block;
+		margin: 0 auto 0 auto;
+	}
+
+	/**
+	 * 5.7  Components
+	 *-----------------------------------------------------------------------*/
+	.component:not(.full-height),
+	.cols-1 .component {
+		margin-right: 0 !important;
+	}
+	
+	.layout2.component .component-media-wrap {
+		margin-bottom: 12px;
+	}
+	
+	/* Contact Form */
+	.wpcf7-form {
+		margin-top: 12px;
+	}
+	
+	.contact-form-cols-2 .contact-info-form {
+		margin-top: 4%;
+	}
+	
+	/**
+	 * 5.8 Single Post Page
+	 *-----------------------------------------------------------------------*/
+	.show-sidebar .widget-container,
+	.show-sidebar #preposts-right,
+	.show-sidebar #single-post-after-widget,
+	.show-sidebar .author-bio, 
+	.show-sidebar #comments,
+	.show-sidebar #comments li,
+	.show-sidebar #comments form,
+	.show-sidebar .contact-form,
+	.show-sidebar .navigation,
+	.show-sidebar #main-posts-cont .cols-1 .component-gutter {
+		margin-right: 0;
+		padding-right: 0;
+	}
+	
+	/**
+	 * 5.9 About Me Page
+	 *-----------------------------------------------------------------------*/
+	.about-me {
+		font-weight: normal;
+		text-align: center;
+	}
+	.about-me .component-media-wrap {
+		padding-bottom: 36px;
+	}
+	
+	.bigger {
+		padding-bottom: 30px;
+	}
+	
+	/**
+	 * 5.10 Flexslider
+	 *-----------------------------------------------------------------------*/
+	.blogcentral-nav {
+		line-height: 30px;
+	}
+	
+}
+
+/**
+ * 6.0 Max Width: 400px
+ *-----------------------------------------------------------------------*/
+@media only screen and (max-width:400px)
+{ 
+	/**
+	 * 6.1  Posts
+	 *-----------------------------------------------------------------------*/
+	#main-area .cols .post-title a,
+	#main-area .layout2 .post-title a {
+		font-size: 17px;
+		line-height: 17px;
+	}
+	
+	/* Caption for link posts */
+	.link-caption a {
+		font-size: 14px;
+	}
+	
+	/**
+	 * 6.2  Single Post Page
+	 *-----------------------------------------------------------------------*/
+	
+	/* Author */
+	.author-avatar,
+	.author-details {
+		display: block;
+		float: none;
+		margin: 0;
+		padding: 0;
+		padding-top: 6px;
+		width: auto;
+	}
+	
+	/* Comments */
+	.cmt_avatar {
+		width: 18%;
+	}
+	
+	ul.commentlist li .cmt-author-meta {
+		width: 80%;
+	}
+}

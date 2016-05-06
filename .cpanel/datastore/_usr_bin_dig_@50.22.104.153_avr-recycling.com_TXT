@@ -1,0 +1,27 @@
+
+; <<>> DiG 9.3.6-P1-RedHat-9.3.6-16.P1.el5_7.1 <<>> @50.22.104.153 avr-recycling.com TXT
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36404
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;avr-recycling.com.		IN	TXT
+
+;; ANSWER SECTION:
+avr-recycling.com.	14400	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+
+;; AUTHORITY SECTION:
+avr-recycling.com.	86400	IN	NS	ns2815.hostgator.com.
+avr-recycling.com.	86400	IN	NS	ns2816.hostgator.com.
+
+;; ADDITIONAL SECTION:
+ns2815.hostgator.com.	14400	IN	A	50.22.104.153
+ns2816.hostgator.com.	14400	IN	A	50.22.113.32
+
+;; Query time: 1 msec
+;; SERVER: 50.22.104.153#53(50.22.104.153)
+;; WHEN: Sat Feb 18 01:32:56 2012
+;; MSG SIZE  rcvd: 167
+
