@@ -1,0 +1,28 @@
+39681.536 (3) Opened log file at time: Fri, 16 Mar 2018 07:05:15 +0000 on http://blog.avritek.com
+39681.540 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.10.0-693.11.6.1.ELK.el6.x86_64 #1 SMP Tue Jan 23 10:30:30 MST 2018 x86_64) MySQL: 5.5.51 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.7M | 35M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+39681.874 (3) Free space on disk containing Updraft's temporary directory: 244208.2 Mb
+39681.889 (3) Backup run: resumption=3, nonce=f9e577aafede, begun at=1521144233 (39682s ago), job type=backup
+39681.892 (3) Long time past since expected resumption time: approx expected=1521152399.1, now=1521183915.3, diff=31516.2
+39681.895 (3) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+39681.902 (3) Scheduling a resumption (4) after 300 seconds (1521184215) in case this run gets aborted
+39681.945 (3) Checking if we have a zip executable available
+39681.949 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+39681.952 (3) Creation of backups of directories: already finished
+39681.954 (3) Saving backup status to database (elements: 8)
+39681.961 (3) Database dump (WordPress DB): Creation was completed already
+39681.963 (3) Saving backup history
+39682.060 (3) backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-plugins.zip)
+39682.070 (3) Recording as successfully uploaded: backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-plugins.zip (be19be24bc078d712fbfbacdc71825f9)
+39682.081 (3) backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-themes.zip)
+39682.087 (3) Recording as successfully uploaded: backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-themes.zip (48782ea69680ad6e5291384efe2efe85)
+39682.095 (3) backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-uploads.zip)
+39682.100 (3) Recording as successfully uploaded: backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-uploads.zip (c313124637f67dbb6ce2453ad3548c93)
+39682.109 (3) backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-others.zip)
+39682.114 (3) Recording as successfully uploaded: backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-others.zip (61e2f9e341b0b3351dfb71c431cc3a19)
+39682.123 (3) backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home3/avr/public_html/avritek.com/blog/wp-content/updraft/backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-db.gz)
+39682.130 (3) Recording as successfully uploaded: backup_2018-03-15-2003_Avritek_Blog_Secure_Technology_f9e577aafede-db.gz (26d8e1bf449bbbfc33bdca1a21144c9b)
+39682.143 (3) Resume backup (f9e577aafede, 3): finish run
+39682.148 (3) There were no more files that needed uploading
+39682.152 (3) There were no errors in the uploads, so the 'resume' event (4) is being unscheduled
+39682.190 (3) No email will be sent - this backup set was empty.
+39682.220 (3) The backup apparently succeeded (with warnings) and is now complete

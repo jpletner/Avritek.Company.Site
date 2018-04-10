@@ -1,0 +1,2 @@
+[16-Mar-2018 05:50:12 America/Chicago] PHP Fatal error:  Call to undefined function remove_action() in /home3/avr/public_html/avritek.com/blog/wp-content/themes/genesis/404.php on line 15
+[27-Mar-2018 22:15:12 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home3/avr/public_html/avritek.com/blog/wp-content/themes/genesis/header.php on line 14

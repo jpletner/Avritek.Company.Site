@@ -1,0 +1,5 @@
+39682.277 (3) Opened log file at time: Fri, 16 Mar 2018 07:05:16 +0000 on http://blog.avritek.com
+39682.294 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45 (Linux gator3262.hostgator.com 3.10.0-693.11.6.1.ELK.el6.x86_64 #1 SMP Tue Jan 23 10:30:30 MST 2018 x86_64) MySQL: 5.5.51 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.6M | 36M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+39682.531 (3) Free space on disk containing Updraft's temporary directory: 244208.1 Mb
+39682.541 (3) Backup run: resumption=3, nonce=508bd1a1b5ff, begun at=1521144233 (39683s ago), job type=backup
+39682.545 (3) Terminate: This backup job is already finished (1).
