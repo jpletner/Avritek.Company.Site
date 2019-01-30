@@ -322,20 +322,25 @@ header {
     -o-background-size: auto;
 }
 
+.fixed-position {
+  width:1425px;
+  right: 20px;
+  margin:0 auto 0 auto;
+  text-align:center;
+  position: fixed;
+  bottom: 0%;
+  z-index:2;
+}
 
-.buygear{
-    position: fixed;
-	text-align:center;
-	padding:-3px;
-    left: 1%;
-	width:200px;
-	height:60px;
-	background-color:#f05f40;
-	color:white;
-	display:inline-block;
-	bottom:-15px;
-	z-index:2;
-	border-radius:5px 5px 0 0;
+.img-thumb {
+  float:right;
+  max-width: 150px;
+  height: 70px;
+  display: inline-block;
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: rgb(255, 255, 255);
+  transition: all .2s ease-in-out;
 }
 
 #secondary{
@@ -344,7 +349,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 4.5em;
     font-weight: bold;
     /*text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.7);*/
