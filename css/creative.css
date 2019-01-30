@@ -92,6 +92,10 @@ p {
     line-height: 2em;
 }
 
+#certs {
+  vertical-align: middle;
+}
+
 .diffTable {
     padding-left: 20%;
 }
@@ -340,6 +344,13 @@ header {
   padding: 4px;
   line-height: 1.42857143;
   background-color: rgb(255, 255, 255);
+  transition: all .2s ease-in-out;
+}
+
+.cert-img {
+  width: auto;
+  height: 130px;
+  padding: 4px;
   transition: all .2s ease-in-out;
 }
 
