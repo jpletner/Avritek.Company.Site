@@ -386,7 +386,7 @@ header {
 	color:#8CC541;
 }
 
-#tertiary{
+.tertiary{
     position: relative;
     width: 100%;
     min-height: auto;
