@@ -1,5 +1,28 @@
-# Use PHP54 as default
-AddHandler application/x-httpd-php54 .php
-<IfModule mod_suphp.c>
-    suPHP_ConfigPath /opt/php54/lib
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
 </IfModule>
+
+# END WordPress
+
+RewriteCond %{HTTP_HOST} ^avr\-recycling\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.avr\-recycling\.com$
+RewriteCond %{HTTP_HOST} ^www\.avritek\.com
+RewriteRule ^(.*)$ https://www.avritek.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^avr\-recycling\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.avr\-recycling\.com$
+RewriteCond %{HTTP_HOST} ^blog\.avritek\.com
+RewriteCond %{HTTP_HOST} ^www\.blog\.avritek\.com
+RewriteRule ^(.*)$ https\:\/\/blog\.avritek\.com\/ [R=301,L]
+
+# Always use https for secure connections
+# Replace 'www.example.com' with your domain name
+# (as it appears on your SSL certificate)
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.avritek.com/$1 [R=301,L]
