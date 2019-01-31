@@ -338,8 +338,8 @@ header {
 
 .img-thumb {
   float:right;
-  max-width: 150px;
-  height: 70px;
+  width: auto;
+  height: auto;
   display: inline-block;
   padding: 4px;
   line-height: 1.42857143;
@@ -349,7 +349,7 @@ header {
 
 .cert-img {
   width: auto;
-  height: 130px;
+  height: auto;
   padding: 4px;
   transition: all .2s ease-in-out;
 }
