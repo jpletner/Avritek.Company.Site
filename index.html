@@ -94,6 +94,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <!-- /.container-fluid -->
     </nav>
+    <video autoplay loop muted poster="screenshot.jpg" id="background">
+      <source src="img/avritek_clip.mp4" type="video/mp4">
+    </video>
 
     <header>
         <div class="header-content">
@@ -204,7 +207,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
 	 <div class="form-group">
-        <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
+        <label for="human" class="col-sm-2 control-label">3 + 3 = ?<span class="required">*</span></label>
         <div class="col-sm-8">
             <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
         </div>
@@ -348,7 +351,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Services</h2>
+                    <h2 class="section-heading service-header">Our Services</h2>
 					<hr class="primary">
 					<p>All organizations face the same primary challenge when preparing to offload their excess IT and electronic equipment: to ensure no company or customer data is compromised or lost. At Avritek, we maintain strict data security procedures to ensure that devices which contain proprietary or confidential information are handled properly on their way to resale, recycling or destruction. With our extensive experience in hardware refreshes, recurring pickups, data center co-locations, and facility moves/closures, we are well prepared to handle any situation that carries with it an inherent security risk.
 					<br>
@@ -383,7 +386,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
 		<div class="container">
-            <div class="row">
+            <div class="row services-boxes">
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-truck wow bounceIn text-primary"></i>
@@ -420,7 +423,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </section>
 
-        <section class="bg-primary">
+        <section class="bg-primary" id="certs-standards">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12  text-center">
@@ -528,79 +531,88 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>
 
     <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Contact us</h2>
-                    <hr class="primary">
-                    <p>Ready to start your next project with us, or just need a quote? That's great! Give us a call or send us an email and we will get back to you soon.</p>
-                </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2 class="section-heading">Contact us</h2>
+            <hr class="primary">
+            <p>Ready to start your next project with us, or just need a quote? That's great! Give us a call or send us an email and we will get back to you soon.</p>
+          </div>
 
-                <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p><a href="tel:858-715-0950">858-715-0950</a></p>
-                </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:info@avritek.com" target="_blank">info@avritek.com</a></p>
-                </div>
+          <div class="col-lg-4 col-lg-offset-2 text-center">
+              <i class="fa fa-phone fa-3x wow bounceIn"></i>
+              <p><a href="tel:858-715-0950">858-715-0950</a></p>
+          </div>
+
+          <div class="col-lg-4 text-center">
+              <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+              <p><a href="mailto:info@avritek.com" target="_blank">info@avritek.com</a></p>
+          </div>
+      </div>
+              <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ -->
+  		<div class="container-fluid" id="contactForm">
+  			<div class = "row">
+			    <form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe1">
+            <div class="form-group">
+              <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required>
+              </div>
             </div>
 
-              <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ -->
-		<div class="container-fluid" id="contactForm">
-			<div class = "row">
-			<form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe1">
-    <div class="form-group">
-        <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required>
-        </div>
-    </div>
-    <div class="form-group">
-        <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required>
-        </div>
-    </div>
+            <div class="form-group">
+              <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
+              <div class="col-sm-8">
+                <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required>
+              </div>
+            </div>
 
-	<div class="form-group">
-		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
-		<div class="col-sm-8">
-			<select class="form-control" id="serviceType">
-				<option value="one">Sell us your equipment</option>
-				<option value="two">Purchase equipment from us</option>
-				<option value="three">All other inquiries</option>
-				</select>
-		</div>
+          	<div class="form-group">
+          		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
+          		<div class="col-sm-8">
+          			<select class="form-control" id="serviceType">
+          				<option value="one">Sell us your equipment</option>
+          				<option value="two">Purchase equipment from us</option>
+          				<option value="three">All other inquiries</option>
+          				</select>
+          		</div>
+            </div>
 
-	</div>
-    <div class="form-group">
-        <label for="message" class="col-sm-2 control-label">Message</label>
-        <div class="col-sm-8">
-            <textarea class="form-control" rows="3" name="message"></textarea>
-        </div>
-    </div>
-	 <div class="form-group">
-        <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
-        </div>
-    </div>
-    <div class="form-group">
-        <div class="col-sm-10 col-sm-offset-2">
-            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
-        </div>
-    </div>
-    <div class="col-sm-12" id="frameDiv">
-            <iframe name="myIframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
-        </div>
-</form>
-			</div>
-		</div>
-	<!--End contact form-->
+            <div class="form-group">
+              <label for="message" class="col-sm-2 control-label">Message</label>
+              <div class="col-sm-8">
+                <textarea class="form-control" rows="3" name="message"></textarea>
+              </div>
+            </div>
 
-        </div>
-    </section>
+      	    <div class="form-group">
+              <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
+              </div>
+            </div>
+
+            <div class="form-group clearfix form-checker">
+              <label class="label">Info</label>
+              <input class="form-control" placeholder="Info" name="formChecker"/>
+            </div>
+
+            <div class="form-group">
+              <div class="col-sm-10 col-sm-offset-2">
+                <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+              </div>
+            </div>
+
+            <div class="col-sm-12" id="frameDiv">
+              <iframe name="myIframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
+            </div>
+          </form>
+	      </div>
+		  </div>
+    </div>
+    <!--End contact form-->
+  </section>
+
 	<footer class="bg-dark">
        <div class="text-center center-block">
 
