@@ -94,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <!-- /.container-fluid -->
     </nav>
-    <video autoplay loop muted poster="screenshot.jpg" id="background">
+    <video autoplay loop muted poster="img/screenshot.jpg" id="background">
       <source src="img/avritek_clip.mp4" type="video/mp4">
     </video>
 
@@ -151,94 +151,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 <!--end login modal-->
-		<!--equipment modal-->
-<div id="buyModal" class="modal fade">
-
-    <div class="modal-dialog" id="buy-dialog">
-
-        <div class="modal-content">
-
-            <div class="modal-header">
-
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-            </div>
-
-            <div class="modal-body modal-wide" id="modal-text">
-			<h3 class="section-heading text-center">We buy IT, lab/test, A/V, telecom, and medical equipment!</h3>
-
-			<p id="modal-text">We got our start as an electronics equipment reseller over a decade ago and to this day it is a core part of what we do. Our expertise is in IT, lab/test, and medical equipment. We evaluate equipment of all varieties, in all conditions and quantities. Contact us today to see what we can offer for your equipment.
-
-			</p>
-
-
-              <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ -->
-		<div class="container-fluid" id="contactForm">
-			<div class = "row">
-			<form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe">
-    <div class="form-group">
-        <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required>
-        </div>
-    </div>
-    <div class="form-group">
-        <label for="email" class="col-sm-2 control-label">Email<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required>
-        </div>
-    </div>
-
-	<div class="form-group">
-		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
-		<div class="col-sm-8">
-			<select class="form-control" id="serviceType">
-				<option value="one">Sell us your equipment</option>
-				<option value="two">Purchase equipment from us</option>
-				<option value="three">All other inquiries</option>
-				</select>
-		</div>
-
-	</div>
-    <div class="form-group">
-        <label for="message" class="col-sm-2 control-label">Message</label>
-        <div class="col-sm-8">
-            <textarea class="form-control" rows="3" name="message"></textarea>
-        </div>
-    </div>
-	 <div class="form-group">
-        <label for="human" class="col-sm-2 control-label">3 + 3 = ?<span class="required">*</span></label>
-        <div class="col-sm-8">
-            <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
-        </div>
-    </div>
-    <div class="form-group">
-        <div class="col-sm-10 col-sm-offset-2">
-            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
-        </div>
-    </div>
-    <div class="col-sm-12" id="frameDiv">
-            <iframe name="myIframe" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 120px;"></iframe>
-        </div>
-</form>
-			</div>
-		</div>
-	<!--End contact form-->
-
-            </div>
-
-            <div class="modal-footer">
-
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
-<!--end equipment modal-->
 
 	<!-- sidebar -->
   <div class="fixed-position">
@@ -552,7 +464,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <!--Contact form https://bootstrapbay.com/blog/working-bootstrap-contact-form/ -->
   		<div class="container-fluid" id="contactForm">
   			<div class = "row">
-			    <form class="form-horizontal" role="form" method="post" action="mail2.php" target="myIframe1">
+			    <form id="ctsForm" class="form-horizontal" role="form" method="post" target="myIframe1" action="mail2.php">
             <div class="form-group">
               <label for="name" class="col-sm-2 control-label">Name<span class="required">*</span></label>
               <div class="col-sm-8">
@@ -570,11 +482,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           	<div class="form-group">
           		<label for="serviceType" class="col-sm-2  control-label">Service Type</label>
           		<div class="col-sm-8">
-          			<select class="form-control" id="serviceType">
-                  <option value="one">eWaste Pickup</option>
-                  <option value="one">Data Destruction</option>
-                  <option value="one">Sell us your equipment</option>
-          				<option value="three">All other inquiries</option>
+          			<select class="form-control" name="serviceType" id="serviceType">
+                  <option value="eWaste Pickup">eWaste Pickup</option>
+                  <option value="Data Destruction">Data Destruction</option>
+                  <option value="Sell us your equipment">Sell us your equipment</option>
+          				<option value="All other inquiries">All other inquiries</option>
           			</select>
           		</div>
             </div>
@@ -586,17 +498,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
             </div>
 
-      	    <div class="form-group">
-              <label for="human" class="col-sm-2 control-label">2 + 3 = ?<span class="required">*</span></label>
+            <div class="form-group">
+              <label for="human" class="col-sm-2 control-label">3 + 3 = ?<span class="required">*</span></label>
               <div class="col-sm-8">
-                <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
+                  <input type="text" class="form-control" id="human" name="human" placeholder='(Simple spam checker - Enter your answer)' required>
               </div>
             </div>
 
-            <div class="form-group clearfix form-checker">
-              <label class="label">Info</label>
-              <input class="form-control" placeholder="Info" name="formChecker"/>
-            </div>
+            <input class="collapse" type="text" name="url" /></p>
 
             <div class="form-group">
               <div class="col-sm-10 col-sm-offset-2">
