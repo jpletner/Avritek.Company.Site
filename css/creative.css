@@ -114,6 +114,11 @@ p {
     padding: 5%;
 }
 
+.bg-light {
+    color: #fff;
+    background-color: lightgrey;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
